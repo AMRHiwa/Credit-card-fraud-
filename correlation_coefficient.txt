@@ -1,0 +1,3080 @@
+correlation coefficient of v1 - v2 : 
+[[ 1.00000000e+00 -7.26910792e-17]
+ [-7.26910792e-17  1.00000000e+00]]
+
+correlation coefficient of v1 - v3 : 
+[[ 1.00000000e+00 -5.94582862e-16]
+ [-5.94582862e-16  1.00000000e+00]]
+
+correlation coefficient of v1 - v4 : 
+[[ 1.00000000e+00 -3.37837096e-16]
+ [-3.37837096e-16  1.00000000e+00]]
+
+correlation coefficient of v1 - v5 : 
+[[1.00000000e+00 3.38490649e-16]
+ [3.38490649e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v6 : 
+[[1.00000000e+00 1.76687953e-16]
+ [1.76687953e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v7 : 
+[[1.00000000e+00 1.53576191e-16]
+ [1.53576191e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v8 : 
+[[ 1.00000000e+00 -8.23727703e-17]
+ [-8.23727703e-17  1.00000000e+00]]
+
+correlation coefficient of v1 - v9 : 
+[[1.00000000e+00 4.51226532e-17]
+ [4.51226532e-17 1.00000000e+00]]
+
+correlation coefficient of v1 - v10 : 
+[[1.00000000e+00 6.63502154e-17]
+ [6.63502154e-17 1.00000000e+00]]
+
+correlation coefficient of v1 - v11 : 
+[[1.00000000e+00 2.69677853e-16]
+ [2.69677853e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v12 : 
+[[1.00000000e+00 1.90853824e-16]
+ [1.90853824e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v13 : 
+[[ 1.00000000e+00 -5.43645535e-17]
+ [-5.43645535e-17  1.00000000e+00]]
+
+correlation coefficient of v1 - v14 : 
+[[1.00000000e+00 3.30536321e-16]
+ [3.30536321e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v15 : 
+[[ 1.00000000e+00 -1.16557356e-16]
+ [-1.16557356e-16  1.00000000e+00]]
+
+correlation coefficient of v1 - v16 : 
+[[1.00000000e+00 2.78022612e-16]
+ [2.78022612e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v17 : 
+[[ 1.00000000e+00 -1.94956335e-17]
+ [-1.94956335e-17  1.00000000e+00]]
+
+correlation coefficient of v1 - v18 : 
+[[1.00000000e+00 1.48221214e-16]
+ [1.48221214e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v19 : 
+[[1.00000000e+00 1.62817638e-16]
+ [1.62817638e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v20 : 
+[[1.0000000e+00 1.6112229e-16]
+ [1.6112229e-16 1.0000000e+00]]
+
+correlation coefficient of v1 - v21 : 
+[[ 1.0000000e+00 -1.0152797e-16]
+ [-1.0152797e-16  1.0000000e+00]]
+
+correlation coefficient of v1 - v22 : 
+[[1.00000000e+00 7.45678536e-17]
+ [7.45678536e-17 1.00000000e+00]]
+
+correlation coefficient of v1 - v23 : 
+[[1.00000e+00 1.76782e-16]
+ [1.76782e-16 1.00000e+00]]
+
+correlation coefficient of v1 - v24 : 
+[[ 1.00000000e+00 -7.62469309e-17]
+ [-7.62469309e-17  1.00000000e+00]]
+
+correlation coefficient of v1 - v25 : 
+[[ 1.00000000e+00 -1.95281048e-16]
+ [-1.95281048e-16  1.00000000e+00]]
+
+correlation coefficient of v1 - v26 : 
+[[ 1.00000000e+00 -1.37679287e-16]
+ [-1.37679287e-16  1.00000000e+00]]
+
+correlation coefficient of v1 - v27 : 
+[[1.00000000e+00 1.02653088e-16]
+ [1.02653088e-16 1.00000000e+00]]
+
+correlation coefficient of v1 - v28 : 
+[[1.00000000e+00 3.56686783e-16]
+ [3.56686783e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v2 - v1 : 
+[[ 1.00000000e+00 -7.26910792e-17]
+ [-7.26910792e-17  1.00000000e+00]]
+
+correlation coefficient of v2 - v3 : 
+[[1.00000000e+00 8.25032243e-17]
+ [8.25032243e-17 1.00000000e+00]]
+
+correlation coefficient of v2 - v4 : 
+[[ 1.00000000e+00 -1.96339514e-16]
+ [-1.96339514e-16  1.00000000e+00]]
+
+correlation coefficient of v2 - v5 : 
+[[1.00000000e+00 1.06110685e-16]
+ [1.06110685e-16 1.00000000e+00]]
+
+correlation coefficient of v2 - v6 : 
+[[1.00000000e+00 3.80100399e-16]
+ [3.80100399e-16 1.00000000e+00]]
+
+correlation coefficient of v2 - v7 : 
+[[ 1.00000000e+00 -1.46991578e-16]
+ [-1.46991578e-16  1.00000000e+00]]
+
+correlation coefficient of v2 - v8 : 
+[[ 1.00000000e+00 -2.04419122e-17]
+ [-2.04419122e-17  1.00000000e+00]]
+
+correlation coefficient of v2 - v9 : 
+[[ 1.00000000e+00 -1.05944112e-16]
+ [-1.05944112e-16  1.00000000e+00]]
+
+correlation coefficient of v2 - v10 : 
+[[ 1.00000000e+00 -1.47634038e-16]
+ [-1.47634038e-16  1.00000000e+00]]
+
+correlation coefficient of v2 - v11 : 
+[[1.00000000e+00 3.50176665e-16]
+ [3.50176665e-16 1.00000000e+00]]
+
+correlation coefficient of v2 - v12 : 
+[[ 1.00000000e+00 -3.29773283e-16]
+ [-3.29773283e-16  1.00000000e+00]]
+
+correlation coefficient of v2 - v13 : 
+[[ 1.0000000e+00 -1.0160124e-17]
+ [-1.0160124e-17  1.0000000e+00]]
+
+correlation coefficient of v2 - v14 : 
+[[ 1.00000000e+00 -3.86595896e-16]
+ [-3.86595896e-16  1.00000000e+00]]
+
+correlation coefficient of v2 - v15 : 
+[[1.00000000e+00 5.65412941e-17]
+ [5.65412941e-17 1.00000000e+00]]
+
+correlation coefficient of v2 - v16 : 
+[[1.00000000e+00 5.10875436e-17]
+ [5.10875436e-17 1.00000000e+00]]
+
+correlation coefficient of v2 - v17 : 
+[[ 1.00000000e+00 -6.42528685e-16]
+ [-6.42528685e-16  1.00000000e+00]]
+
+correlation coefficient of v2 - v18 : 
+[[1.00000000e+00 2.08446676e-16]
+ [2.08446676e-16 1.00000000e+00]]
+
+correlation coefficient of v2 - v19 : 
+[[1.00000000e+00 4.88347459e-18]
+ [4.88347459e-18 1.00000000e+00]]
+
+correlation coefficient of v2 - v20 : 
+[[1.00000000e+00 1.08962104e-16]
+ [1.08962104e-16 1.00000000e+00]]
+
+correlation coefficient of v2 - v21 : 
+[[1.00000000e+00 9.15358549e-17]
+ [9.15358549e-17 1.00000000e+00]]
+
+correlation coefficient of v2 - v22 : 
+[[1.00000000e+00 1.81336569e-16]
+ [1.81336569e-16 1.00000000e+00]]
+
+correlation coefficient of v2 - v23 : 
+[[1.00000000e+00 1.52857807e-16]
+ [1.52857807e-16 1.00000000e+00]]
+
+correlation coefficient of v2 - v24 : 
+[[ 1.00000000e+00 -1.15759859e-16]
+ [-1.15759859e-16  1.00000000e+00]]
+
+correlation coefficient of v2 - v25 : 
+[[1.00000000e+00 2.01228988e-16]
+ [2.01228988e-16 1.00000000e+00]]
+
+correlation coefficient of v2 - v26 : 
+[[1.00000000e+00 2.49496973e-16]
+ [2.49496973e-16 1.00000000e+00]]
+
+correlation coefficient of v2 - v27 : 
+[[ 1.00000000e+00 -5.16280172e-16]
+ [-5.16280172e-16  1.00000000e+00]]
+
+correlation coefficient of v2 - v28 : 
+[[ 1.00000000e+00 -3.81866509e-16]
+ [-3.81866509e-16  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v3 - v1 : 
+[[ 1.00000000e+00 -5.94582862e-16]
+ [-5.94582862e-16  1.00000000e+00]]
+
+correlation coefficient of v3 - v2 : 
+[[1.00000000e+00 8.25032243e-17]
+ [8.25032243e-17 1.00000000e+00]]
+
+correlation coefficient of v3 - v4 : 
+[[ 1.00000000e+00 -2.34838454e-16]
+ [-2.34838454e-16  1.00000000e+00]]
+
+correlation coefficient of v3 - v5 : 
+[[ 1.00000000e+00 -5.61782317e-16]
+ [-5.61782317e-16  1.00000000e+00]]
+
+correlation coefficient of v3 - v6 : 
+[[1.00000000e+00 1.45866606e-15]
+ [1.45866606e-15 1.00000000e+00]]
+
+correlation coefficient of v3 - v7 : 
+[[1.00000000e+00 2.67418803e-16]
+ [2.67418803e-16 1.00000000e+00]]
+
+correlation coefficient of v3 - v8 : 
+[[1.00000000e+00 7.05352343e-18]
+ [7.05352343e-18 1.00000000e+00]]
+
+correlation coefficient of v3 - v9 : 
+[[ 1.00000000e+00 -2.99534284e-19]
+ [-2.99534284e-19  1.00000000e+00]]
+
+correlation coefficient of v3 - v10 : 
+[[1.0000000e+00 1.8973706e-16]
+ [1.8973706e-16 1.0000000e+00]]
+
+correlation coefficient of v3 - v11 : 
+[[1.00000000e+00 1.20464795e-16]
+ [1.20464795e-16 1.00000000e+00]]
+
+correlation coefficient of v3 - v12 : 
+[[1.00000000e+00 2.86329058e-16]
+ [2.86329058e-16 1.00000000e+00]]
+
+correlation coefficient of v3 - v13 : 
+[[ 1.00000000e+00 -3.59096256e-17]
+ [-3.59096256e-17  1.00000000e+00]]
+
+correlation coefficient of v3 - v14 : 
+[[1.00000000e+00 7.14990917e-16]
+ [7.14990917e-16 1.00000000e+00]]
+
+correlation coefficient of v3 - v15 : 
+[[ 1.00000000e+00 -5.37735393e-17]
+ [-5.37735393e-17  1.00000000e+00]]
+
+correlation coefficient of v3 - v16 : 
+[[1.00000000e+00 5.88263673e-16]
+ [5.88263673e-16 1.00000000e+00]]
+
+correlation coefficient of v3 - v17 : 
+[[1.00000000e+00 1.10801799e-16]
+ [1.10801799e-16 1.00000000e+00]]
+
+correlation coefficient of v3 - v18 : 
+[[1.00000000e+00 3.64357364e-16]
+ [3.64357364e-16 1.00000000e+00]]
+
+correlation coefficient of v3 - v19 : 
+[[1.00000000e+00 3.47626903e-16]
+ [3.47626903e-16 1.00000000e+00]]
+
+correlation coefficient of v3 - v20 : 
+[[ 1.00000000e+00 -1.57084919e-17]
+ [-1.57084919e-17  1.00000000e+00]]
+
+correlation coefficient of v3 - v21 : 
+[[ 1.00000000e+00 -1.51605568e-16]
+ [-1.51605568e-16  1.00000000e+00]]
+
+correlation coefficient of v3 - v22 : 
+[[ 1.0000000e+00 -2.8498944e-16]
+ [-2.8498944e-16  1.0000000e+00]]
+
+correlation coefficient of v3 - v23 : 
+[[ 1.00000000e+00 -8.12734632e-17]
+ [-8.12734632e-17  1.00000000e+00]]
+
+correlation coefficient of v3 - v24 : 
+[[1.00000000e+00 2.42817757e-17]
+ [2.42817757e-17 1.00000000e+00]]
+
+correlation coefficient of v3 - v25 : 
+[[1.00000000e+00 7.69385489e-17]
+ [7.69385489e-17 1.00000000e+00]]
+
+correlation coefficient of v3 - v26 : 
+[[ 1.00000000e+00 -1.86012985e-16]
+ [-1.86012985e-16  1.00000000e+00]]
+
+correlation coefficient of v3 - v27 : 
+[[1.00000000e+00 5.00507199e-16]
+ [5.00507199e-16 1.00000000e+00]]
+
+correlation coefficient of v3 - v28 : 
+[[1.00000000e+00 7.20249736e-16]
+ [7.20249736e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v4 - v1 : 
+[[ 1.00000000e+00 -3.37837096e-16]
+ [-3.37837096e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v2 : 
+[[ 1.00000000e+00 -1.96339514e-16]
+ [-1.96339514e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v3 : 
+[[ 1.00000000e+00 -2.34838454e-16]
+ [-2.34838454e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v5 : 
+[[ 1.00000000e+00 -1.85502675e-15]
+ [-1.85502675e-15  1.00000000e+00]]
+
+correlation coefficient of v4 - v6 : 
+[[ 1.00000000e+00 -4.24763286e-16]
+ [-4.24763286e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v7 : 
+[[ 1.00000000e+00 -1.08378504e-16]
+ [-1.08378504e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v8 : 
+[[1.00000000e+00 6.24192028e-16]
+ [6.24192028e-16 1.00000000e+00]]
+
+correlation coefficient of v4 - v9 : 
+[[1.00000000e+00 6.05031278e-16]
+ [6.05031278e-16 1.00000000e+00]]
+
+correlation coefficient of v4 - v10 : 
+[[ 1.0000000e+00 -1.5349262e-16]
+ [-1.5349262e-16  1.0000000e+00]]
+
+correlation coefficient of v4 - v11 : 
+[[ 1.00000000e+00 -3.09699093e-16]
+ [-3.09699093e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v12 : 
+[[ 1.00000000e+00 -2.20646057e-16]
+ [-2.20646057e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v13 : 
+[[ 1.0000000e+00 -8.4526307e-18]
+ [-8.4526307e-18  1.0000000e+00]]
+
+correlation coefficient of v4 - v14 : 
+[[ 1.00000000e+00 -1.09296837e-16]
+ [-1.09296837e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v15 : 
+[[1.00000000e+00 2.19979677e-16]
+ [2.19979677e-16 1.00000000e+00]]
+
+correlation coefficient of v4 - v16 : 
+[[ 1.00000000e+00 -3.39991501e-17]
+ [-3.39991501e-17  1.00000000e+00]]
+
+correlation coefficient of v4 - v17 : 
+[[ 1.00000000e+00 -3.56066612e-16]
+ [-3.56066612e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v18 : 
+[[ 1.00000000e+00 -4.81571184e-17]
+ [-4.81571184e-17  1.00000000e+00]]
+
+correlation coefficient of v4 - v19 : 
+[[ 1.00000000e+00 -2.82698565e-16]
+ [-2.82698565e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v20 : 
+[[ 1.00000000e+00 -1.92484355e-16]
+ [-1.92484355e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v21 : 
+[[ 1.000000e+00 -4.834458e-17]
+ [-4.834458e-17  1.000000e+00]]
+
+correlation coefficient of v4 - v22 : 
+[[1.00000000e+00 2.34688287e-16]
+ [2.34688287e-16 1.00000000e+00]]
+
+correlation coefficient of v4 - v23 : 
+[[1.000000e+00 2.027738e-16]
+ [2.027738e-16 1.000000e+00]]
+
+correlation coefficient of v4 - v24 : 
+[[1.00000000e+00 1.60291575e-16]
+ [1.60291575e-16 1.00000000e+00]]
+
+correlation coefficient of v4 - v25 : 
+[[1.00000000e+00 6.50072554e-16]
+ [6.50072554e-16 1.00000000e+00]]
+
+correlation coefficient of v4 - v26 : 
+[[ 1.00000000e+00 -4.06921314e-16]
+ [-4.06921314e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v27 : 
+[[ 1.00000000e+00 -1.06146647e-16]
+ [-1.06146647e-16  1.00000000e+00]]
+
+correlation coefficient of v4 - v28 : 
+[[ 1.00000000e+00 -8.36762427e-18]
+ [-8.36762427e-18  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v5 - v1 : 
+[[1.00000000e+00 3.38490649e-16]
+ [3.38490649e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v2 : 
+[[1.00000000e+00 1.06110685e-16]
+ [1.06110685e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v3 : 
+[[ 1.00000000e+00 -5.61782317e-16]
+ [-5.61782317e-16  1.00000000e+00]]
+
+correlation coefficient of v5 - v4 : 
+[[ 1.00000000e+00 -1.85502675e-15]
+ [-1.85502675e-15  1.00000000e+00]]
+
+correlation coefficient of v5 - v6 : 
+[[1.00000000e+00 6.37362138e-16]
+ [6.37362138e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v7 : 
+[[1.00000000e+00 8.53286017e-18]
+ [8.53286017e-18 1.00000000e+00]]
+
+correlation coefficient of v5 - v8 : 
+[[1.00000e+00 4.98557e-16]
+ [4.98557e-16 1.00000e+00]]
+
+correlation coefficient of v5 - v9 : 
+[[1.00000000e+00 4.58202296e-16]
+ [4.58202296e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v10 : 
+[[1.00000000e+00 1.42629923e-16]
+ [1.42629923e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v11 : 
+[[1.00000000e+00 7.29194352e-16]
+ [7.29194352e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v12 : 
+[[1.00000000e+00 3.87372789e-16]
+ [3.87372789e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v13 : 
+[[ 1.00000000e+00 -2.83126639e-16]
+ [-2.83126639e-16  1.00000000e+00]]
+
+correlation coefficient of v5 - v14 : 
+[[1.00000000e+00 2.60872361e-16]
+ [2.60872361e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v15 : 
+[[1.00000000e+00 1.20213227e-16]
+ [1.20213227e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v16 : 
+[[1.0000000e+00 5.9164924e-16]
+ [5.9164924e-16 1.0000000e+00]]
+
+correlation coefficient of v5 - v17 : 
+[[1.00000000e+00 4.86369674e-16]
+ [4.86369674e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v18 : 
+[[1.00000000e+00 4.13476098e-16]
+ [4.13476098e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v19 : 
+[[ 1.00000000e+00 -1.12391549e-16]
+ [-1.12391549e-16  1.00000000e+00]]
+
+correlation coefficient of v5 - v20 : 
+[[ 1.00000000e+00 -1.17488836e-16]
+ [-1.17488836e-16  1.00000000e+00]]
+
+correlation coefficient of v5 - v21 : 
+[[ 1.00000000e+00 -3.16921757e-17]
+ [-3.16921757e-17  1.00000000e+00]]
+
+correlation coefficient of v5 - v22 : 
+[[1.0000000e+00 8.6868027e-18]
+ [8.6868027e-18 1.0000000e+00]]
+
+correlation coefficient of v5 - v23 : 
+[[1.00000000e+00 1.37345909e-16]
+ [1.37345909e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v24 : 
+[[ 1.0000000e+00 -9.6403796e-16]
+ [-9.6403796e-16  1.0000000e+00]]
+
+correlation coefficient of v5 - v25 : 
+[[ 1.0000000e+00 -6.3689074e-17]
+ [-6.3689074e-17  1.0000000e+00]]
+
+correlation coefficient of v5 - v26 : 
+[[1.00000000e+00 3.19016684e-16]
+ [3.19016684e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v27 : 
+[[1.00000000e+00 4.43353217e-16]
+ [4.43353217e-16 1.00000000e+00]]
+
+correlation coefficient of v5 - v28 : 
+[[ 1.00000000e+00 -1.88688139e-16]
+ [-1.88688139e-16  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v6 - v1 : 
+[[1.00000000e+00 1.76687953e-16]
+ [1.76687953e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v2 : 
+[[1.00000000e+00 3.80100399e-16]
+ [3.80100399e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v3 : 
+[[1.00000000e+00 1.45866606e-15]
+ [1.45866606e-15 1.00000000e+00]]
+
+correlation coefficient of v6 - v4 : 
+[[ 1.00000000e+00 -4.24763286e-16]
+ [-4.24763286e-16  1.00000000e+00]]
+
+correlation coefficient of v6 - v5 : 
+[[1.00000000e+00 6.37362138e-16]
+ [6.37362138e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v7 : 
+[[ 1.00000000e+00 -9.76350203e-19]
+ [-9.76350203e-19  1.00000000e+00]]
+
+correlation coefficient of v6 - v8 : 
+[[ 1.00000000e+00 -3.51427031e-16]
+ [-3.51427031e-16  1.00000000e+00]]
+
+correlation coefficient of v6 - v9 : 
+[[ 1.00000000e+00 -1.17057648e-16]
+ [-1.17057648e-16  1.00000000e+00]]
+
+correlation coefficient of v6 - v10 : 
+[[1.00000000e+00 1.37223651e-16]
+ [1.37223651e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v11 : 
+[[1.00000000e+00 9.57573568e-16]
+ [9.57573568e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v12 : 
+[[1.00000000e+00 2.69681138e-16]
+ [2.69681138e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v13 : 
+[[ 1.00000000e+00 -1.82713089e-16]
+ [-1.82713089e-16  1.00000000e+00]]
+
+correlation coefficient of v6 - v14 : 
+[[1.00000000e+00 3.50066889e-16]
+ [3.50066889e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v15 : 
+[[ 1.00000000e+00 -1.35666558e-16]
+ [-1.35666558e-16  1.00000000e+00]]
+
+correlation coefficient of v6 - v16 : 
+[[ 1.00000000e+00 -7.72123846e-17]
+ [-7.72123846e-17  1.00000000e+00]]
+
+correlation coefficient of v6 - v17 : 
+[[1.00000000e+00 1.11599878e-16]
+ [1.11599878e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v18 : 
+[[1.00000000e+00 4.41482824e-17]
+ [4.41482824e-17 1.00000000e+00]]
+
+correlation coefficient of v6 - v19 : 
+[[1.00000000e+00 9.31084957e-18]
+ [9.31084957e-18 1.00000000e+00]]
+
+correlation coefficient of v6 - v20 : 
+[[1.00000000e+00 1.24330886e-16]
+ [1.24330886e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v21 : 
+[[ 1.00000000e+00 -8.89048696e-17]
+ [-8.89048696e-17  1.00000000e+00]]
+
+correlation coefficient of v6 - v22 : 
+[[ 1.00000000e+00 -1.29595146e-16]
+ [-1.29595146e-16  1.00000000e+00]]
+
+correlation coefficient of v6 - v23 : 
+[[1.00000000e+00 4.64172622e-17]
+ [4.64172622e-17 1.00000000e+00]]
+
+correlation coefficient of v6 - v24 : 
+[[ 1.00000000e+00 -1.05555202e-15]
+ [-1.05555202e-15  1.00000000e+00]]
+
+correlation coefficient of v6 - v25 : 
+[[1.00000000e+00 5.34146973e-16]
+ [5.34146973e-16 1.00000000e+00]]
+
+correlation coefficient of v6 - v26 : 
+[[ 1.00000000e+00 -2.63178518e-16]
+ [-2.63178518e-16  1.00000000e+00]]
+
+correlation coefficient of v6 - v27 : 
+[[ 1.00000000e+00 -1.48205812e-16]
+ [-1.48205812e-16  1.00000000e+00]]
+
+correlation coefficient of v6 - v28 : 
+[[1.00000000e+00 4.34344149e-16]
+ [4.34344149e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v7 - v1 : 
+[[1.00000000e+00 1.53576191e-16]
+ [1.53576191e-16 1.00000000e+00]]
+
+correlation coefficient of v7 - v2 : 
+[[ 1.00000000e+00 -1.46991578e-16]
+ [-1.46991578e-16  1.00000000e+00]]
+
+correlation coefficient of v7 - v3 : 
+[[1.00000000e+00 2.67418803e-16]
+ [2.67418803e-16 1.00000000e+00]]
+
+correlation coefficient of v7 - v4 : 
+[[ 1.00000000e+00 -1.08378504e-16]
+ [-1.08378504e-16  1.00000000e+00]]
+
+correlation coefficient of v7 - v5 : 
+[[1.00000000e+00 8.53286017e-18]
+ [8.53286017e-18 1.00000000e+00]]
+
+correlation coefficient of v7 - v6 : 
+[[ 1.00000000e+00 -9.76350203e-19]
+ [-9.76350203e-19  1.00000000e+00]]
+
+correlation coefficient of v7 - v8 : 
+[[1.00000000e+00 2.15792673e-17]
+ [2.15792673e-17 1.00000000e+00]]
+
+correlation coefficient of v7 - v9 : 
+[[ 1.00000000e+00 -2.37714678e-17]
+ [-2.37714678e-17  1.00000000e+00]]
+
+correlation coefficient of v7 - v10 : 
+[[1.00000000e+00 3.16787645e-16]
+ [3.16787645e-16 1.00000000e+00]]
+
+correlation coefficient of v7 - v11 : 
+[[ 1.00000000e+00 -3.67768528e-16]
+ [-3.67768528e-16  1.00000000e+00]]
+
+correlation coefficient of v7 - v12 : 
+[[1.00000000e+00 6.39709924e-16]
+ [6.39709924e-16 1.00000000e+00]]
+
+correlation coefficient of v7 - v13 : 
+[[ 1.00000000e+00 -9.17871676e-17]
+ [-9.17871676e-17  1.00000000e+00]]
+
+correlation coefficient of v7 - v14 : 
+[[1.00000000e+00 2.93794738e-17]
+ [2.93794738e-17 1.00000000e+00]]
+
+correlation coefficient of v7 - v15 : 
+[[ 1.000000e+00 -3.126989e-17]
+ [-3.126989e-17  1.000000e+00]]
+
+correlation coefficient of v7 - v16 : 
+[[1.00000000e+00 4.89854835e-16]
+ [4.89854835e-16 1.00000000e+00]]
+
+correlation coefficient of v7 - v17 : 
+[[1.00000000e+00 4.86899565e-16]
+ [4.86899565e-16 1.00000000e+00]]
+
+correlation coefficient of v7 - v18 : 
+[[1.000000e+00 1.953706e-16]
+ [1.953706e-16 1.000000e+00]]
+
+correlation coefficient of v7 - v19 : 
+[[ 1.00000000e+00 -7.81055746e-17]
+ [-7.81055746e-17  1.00000000e+00]]
+
+correlation coefficient of v7 - v20 : 
+[[1.00000000e+00 2.29090201e-16]
+ [2.29090201e-16 1.00000000e+00]]
+
+correlation coefficient of v7 - v21 : 
+[[1.00000000e+00 6.07972143e-18]
+ [6.07972143e-18 1.00000000e+00]]
+
+correlation coefficient of v7 - v22 : 
+[[ 1.00000000e+00 -6.50115828e-16]
+ [-6.50115828e-16  1.00000000e+00]]
+
+correlation coefficient of v7 - v23 : 
+[[ 1.00000000e+00 -1.94948045e-16]
+ [-1.94948045e-16  1.00000000e+00]]
+
+correlation coefficient of v7 - v24 : 
+[[ 1.00000000e+00 -9.11950533e-18]
+ [-9.11950533e-18  1.00000000e+00]]
+
+correlation coefficient of v7 - v25 : 
+[[ 1.00000000e+00 -2.70134466e-17]
+ [-2.70134466e-17  1.00000000e+00]]
+
+correlation coefficient of v7 - v26 : 
+[[ 1.00000000e+00 -8.04759482e-16]
+ [-8.04759482e-16  1.00000000e+00]]
+
+correlation coefficient of v7 - v27 : 
+[[ 1.00000000e+00 -1.60295227e-16]
+ [-1.60295227e-16  1.00000000e+00]]
+
+correlation coefficient of v7 - v28 : 
+[[1.00000000e+00 1.11684061e-16]
+ [1.11684061e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v8 - v1 : 
+[[ 1.00000000e+00 -8.23727703e-17]
+ [-8.23727703e-17  1.00000000e+00]]
+
+correlation coefficient of v8 - v2 : 
+[[ 1.00000000e+00 -2.04419122e-17]
+ [-2.04419122e-17  1.00000000e+00]]
+
+correlation coefficient of v8 - v3 : 
+[[1.00000000e+00 7.05352343e-18]
+ [7.05352343e-18 1.00000000e+00]]
+
+correlation coefficient of v8 - v4 : 
+[[1.00000000e+00 6.24192028e-16]
+ [6.24192028e-16 1.00000000e+00]]
+
+correlation coefficient of v8 - v5 : 
+[[1.00000e+00 4.98557e-16]
+ [4.98557e-16 1.00000e+00]]
+
+correlation coefficient of v8 - v6 : 
+[[ 1.00000000e+00 -3.51427031e-16]
+ [-3.51427031e-16  1.00000000e+00]]
+
+correlation coefficient of v8 - v7 : 
+[[1.00000000e+00 2.15792673e-17]
+ [2.15792673e-17 1.00000000e+00]]
+
+correlation coefficient of v8 - v9 : 
+[[1.00000000e+00 4.20877071e-16]
+ [4.20877071e-16 1.00000000e+00]]
+
+correlation coefficient of v8 - v10 : 
+[[1.00000000e+00 2.53613223e-17]
+ [2.53613223e-17 1.00000000e+00]]
+
+correlation coefficient of v8 - v11 : 
+[[1.00000000e+00 1.48624665e-16]
+ [1.48624665e-16 1.00000000e+00]]
+
+correlation coefficient of v8 - v12 : 
+[[1.00000000e+00 2.91837294e-17]
+ [2.91837294e-17 1.00000000e+00]]
+
+correlation coefficient of v8 - v13 : 
+[[ 1.00000000e+00 -2.92065366e-16]
+ [-2.92065366e-16  1.00000000e+00]]
+
+correlation coefficient of v8 - v14 : 
+[[ 1.00000000e+00 -2.21416211e-16]
+ [-2.21416211e-16  1.00000000e+00]]
+
+correlation coefficient of v8 - v15 : 
+[[1.00000000e+00 8.60356989e-17]
+ [8.60356989e-17 1.00000000e+00]]
+
+correlation coefficient of v8 - v16 : 
+[[1.00000000e+00 1.18078054e-16]
+ [1.18078054e-16 1.00000000e+00]]
+
+correlation coefficient of v8 - v17 : 
+[[ 1.00000000e+00 -4.05996962e-16]
+ [-4.05996962e-16  1.00000000e+00]]
+
+correlation coefficient of v8 - v18 : 
+[[ 1.00000000e+00 -3.55753505e-16]
+ [-3.55753505e-16  1.00000000e+00]]
+
+correlation coefficient of v8 - v19 : 
+[[ 1.00000000e+00 -3.29170827e-16]
+ [-3.29170827e-16  1.00000000e+00]]
+
+correlation coefficient of v8 - v20 : 
+[[1.00000000e+00 1.18258061e-16]
+ [1.18258061e-16 1.00000000e+00]]
+
+correlation coefficient of v8 - v21 : 
+[[1.00000000e+00 6.83370413e-17]
+ [6.83370413e-17 1.00000000e+00]]
+
+correlation coefficient of v8 - v22 : 
+[[1.00000000e+00 1.52806778e-17]
+ [1.52806778e-17 1.00000000e+00]]
+
+correlation coefficient of v8 - v23 : 
+[[1.0000000e+00 2.1777996e-16]
+ [2.1777996e-16 1.0000000e+00]]
+
+correlation coefficient of v8 - v24 : 
+[[ 1.00000000e+00 -2.10684335e-16]
+ [-2.10684335e-16  1.00000000e+00]]
+
+correlation coefficient of v8 - v25 : 
+[[ 1.00000000e+00 -1.55258223e-16]
+ [-1.55258223e-16  1.00000000e+00]]
+
+correlation coefficient of v8 - v26 : 
+[[ 1.00000000e+00 -1.27784707e-18]
+ [-1.27784707e-18  1.00000000e+00]]
+
+correlation coefficient of v8 - v27 : 
+[[1.00000000e+00 2.88979934e-16]
+ [2.88979934e-16 1.00000000e+00]]
+
+correlation coefficient of v8 - v28 : 
+[[ 1.00000000e+00 -5.51081438e-16]
+ [-5.51081438e-16  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v9 - v1 : 
+[[1.00000000e+00 4.51226532e-17]
+ [4.51226532e-17 1.00000000e+00]]
+
+correlation coefficient of v9 - v2 : 
+[[ 1.00000000e+00 -1.05944112e-16]
+ [-1.05944112e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v3 : 
+[[ 1.00000000e+00 -2.99534284e-19]
+ [-2.99534284e-19  1.00000000e+00]]
+
+correlation coefficient of v9 - v4 : 
+[[1.00000000e+00 6.05031278e-16]
+ [6.05031278e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v5 : 
+[[1.00000000e+00 4.58202296e-16]
+ [4.58202296e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v6 : 
+[[ 1.00000000e+00 -1.17057648e-16]
+ [-1.17057648e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v7 : 
+[[ 1.00000000e+00 -2.37714678e-17]
+ [-2.37714678e-17  1.00000000e+00]]
+
+correlation coefficient of v9 - v8 : 
+[[1.00000000e+00 4.20877071e-16]
+ [4.20877071e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v10 : 
+[[ 1.00000000e+00 -2.91977149e-16]
+ [-2.91977149e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v11 : 
+[[1.00000000e+00 2.77356522e-16]
+ [2.77356522e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v12 : 
+[[ 1.00000000e+00 -1.38957664e-15]
+ [-1.38957664e-15  1.00000000e+00]]
+
+correlation coefficient of v9 - v13 : 
+[[1.00000000e+00 8.77610655e-16]
+ [8.77610655e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v14 : 
+[[1.00000000e+00 9.17032946e-16]
+ [9.17032946e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v15 : 
+[[ 1.00000000e+00 -7.25275995e-16]
+ [-7.25275995e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v16 : 
+[[ 1.00000000e+00 -5.12145848e-16]
+ [-5.12145848e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v17 : 
+[[1.00000000e+00 8.46813221e-16]
+ [8.46813221e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v18 : 
+[[1.0000000e+00 1.3668304e-16]
+ [1.3668304e-16 1.0000000e+00]]
+
+correlation coefficient of v9 - v19 : 
+[[1.00000000e+00 1.12376966e-16]
+ [1.12376966e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v20 : 
+[[ 1.00000000e+00 -3.64299492e-16]
+ [-3.64299492e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v21 : 
+[[1.00000000e+00 2.42244933e-16]
+ [2.42244933e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v22 : 
+[[ 1.00000000e+00 -1.68572911e-16]
+ [-1.68572911e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v23 : 
+[[ 1.00000000e+00 -6.56752456e-17]
+ [-6.56752456e-17  1.00000000e+00]]
+
+correlation coefficient of v9 - v24 : 
+[[ 1.00000000e+00 -2.85908336e-16]
+ [-2.85908336e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v25 : 
+[[1.00000000e+00 2.33106447e-16]
+ [2.33106447e-16 1.00000000e+00]]
+
+correlation coefficient of v9 - v26 : 
+[[ 1.00000000e+00 -1.44295435e-16]
+ [-1.44295435e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v27 : 
+[[ 1.00000000e+00 -1.90146022e-16]
+ [-1.90146022e-16  1.00000000e+00]]
+
+correlation coefficient of v9 - v28 : 
+[[1.0000000e+00 8.1251908e-16]
+ [8.1251908e-16 1.0000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v10 - v1 : 
+[[1.00000000e+00 6.63502154e-17]
+ [6.63502154e-17 1.00000000e+00]]
+
+correlation coefficient of v10 - v2 : 
+[[ 1.00000000e+00 -1.47634038e-16]
+ [-1.47634038e-16  1.00000000e+00]]
+
+correlation coefficient of v10 - v3 : 
+[[1.0000000e+00 1.8973706e-16]
+ [1.8973706e-16 1.0000000e+00]]
+
+correlation coefficient of v10 - v4 : 
+[[ 1.0000000e+00 -1.5349262e-16]
+ [-1.5349262e-16  1.0000000e+00]]
+
+correlation coefficient of v10 - v5 : 
+[[1.00000000e+00 1.42629923e-16]
+ [1.42629923e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v6 : 
+[[1.00000000e+00 1.37223651e-16]
+ [1.37223651e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v7 : 
+[[1.00000000e+00 3.16787645e-16]
+ [3.16787645e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v8 : 
+[[1.00000000e+00 2.53613223e-17]
+ [2.53613223e-17 1.00000000e+00]]
+
+correlation coefficient of v10 - v9 : 
+[[ 1.00000000e+00 -2.91977149e-16]
+ [-2.91977149e-16  1.00000000e+00]]
+
+correlation coefficient of v10 - v11 : 
+[[ 1.00000000e+00 -3.19361663e-16]
+ [-3.19361663e-16  1.00000000e+00]]
+
+correlation coefficient of v10 - v12 : 
+[[1.00000000e+00 8.11534106e-16]
+ [8.11534106e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v13 : 
+[[ 1.00000000e+00 -3.97824398e-16]
+ [-3.97824398e-16  1.00000000e+00]]
+
+correlation coefficient of v10 - v14 : 
+[[1.00000000e+00 6.46745423e-16]
+ [6.46745423e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v15 : 
+[[1.00000000e+00 4.08678547e-16]
+ [4.08678547e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v16 : 
+[[1.00000000e+00 2.08349744e-16]
+ [2.08349744e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v17 : 
+[[1.00000000e+00 7.15792785e-16]
+ [7.15792785e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v18 : 
+[[1.00000000e+00 4.22453279e-16]
+ [4.22453279e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v19 : 
+[[1.00000000e+00 1.24267569e-17]
+ [1.24267569e-17 1.00000000e+00]]
+
+correlation coefficient of v10 - v20 : 
+[[ 1.00000000e+00 -1.28789282e-15]
+ [-1.28789282e-15  1.00000000e+00]]
+
+correlation coefficient of v10 - v21 : 
+[[1.00000000e+00 1.04858833e-15]
+ [1.04858833e-15 1.00000000e+00]]
+
+correlation coefficient of v10 - v22 : 
+[[ 1.00000000e+00 -2.05575371e-16]
+ [-2.05575371e-16  1.00000000e+00]]
+
+correlation coefficient of v10 - v23 : 
+[[1.00000000e+00 2.35551782e-16]
+ [2.35551782e-16 1.00000000e+00]]
+
+correlation coefficient of v10 - v24 : 
+[[ 1.00000000e+00 -9.24790863e-17]
+ [-9.24790863e-17  1.00000000e+00]]
+
+correlation coefficient of v10 - v25 : 
+[[ 1.00000000e+00 -3.52471386e-16]
+ [-3.52471386e-16  1.00000000e+00]]
+
+correlation coefficient of v10 - v26 : 
+[[ 1.00000000e+00 -3.79060735e-16]
+ [-3.79060735e-16  1.00000000e+00]]
+
+correlation coefficient of v10 - v27 : 
+[[ 1.00000000e+00 -3.13943418e-16]
+ [-3.13943418e-16  1.00000000e+00]]
+
+correlation coefficient of v10 - v28 : 
+[[1.00000000e+00 2.45935235e-16]
+ [2.45935235e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v11 - v1 : 
+[[1.00000000e+00 2.69677853e-16]
+ [2.69677853e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v2 : 
+[[1.00000000e+00 3.50176665e-16]
+ [3.50176665e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v3 : 
+[[1.00000000e+00 1.20464795e-16]
+ [1.20464795e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v4 : 
+[[ 1.00000000e+00 -3.09699093e-16]
+ [-3.09699093e-16  1.00000000e+00]]
+
+correlation coefficient of v11 - v5 : 
+[[1.00000000e+00 7.29194352e-16]
+ [7.29194352e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v6 : 
+[[1.00000000e+00 9.57573568e-16]
+ [9.57573568e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v7 : 
+[[ 1.00000000e+00 -3.67768528e-16]
+ [-3.67768528e-16  1.00000000e+00]]
+
+correlation coefficient of v11 - v8 : 
+[[1.00000000e+00 1.48624665e-16]
+ [1.48624665e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v9 : 
+[[1.00000000e+00 2.77356522e-16]
+ [2.77356522e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v10 : 
+[[ 1.00000000e+00 -3.19361663e-16]
+ [-3.19361663e-16  1.00000000e+00]]
+
+correlation coefficient of v11 - v12 : 
+[[ 1.00000000e+00 -5.35014353e-16]
+ [-5.35014353e-16  1.00000000e+00]]
+
+correlation coefficient of v11 - v13 : 
+[[1.00000000e+00 4.18703219e-16]
+ [4.18703219e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v14 : 
+[[ 1.00000000e+00 -7.03483111e-17]
+ [-7.03483111e-17  1.00000000e+00]]
+
+correlation coefficient of v11 - v15 : 
+[[1.00000000e+00 1.99018675e-16]
+ [1.99018675e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v16 : 
+[[1.00000000e+00 7.96717152e-17]
+ [7.96717152e-17 1.00000000e+00]]
+
+correlation coefficient of v11 - v17 : 
+[[1.0000000e+00 6.1884824e-16]
+ [6.1884824e-16 1.0000000e+00]]
+
+correlation coefficient of v11 - v18 : 
+[[1.00000000e+00 1.04039534e-16]
+ [1.04039534e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v19 : 
+[[ 1.00000000e+00 -1.14021974e-15]
+ [-1.14021974e-15  1.00000000e+00]]
+
+correlation coefficient of v11 - v20 : 
+[[ 1.00000000e+00 -2.13343704e-16]
+ [-2.13343704e-16  1.00000000e+00]]
+
+correlation coefficient of v11 - v21 : 
+[[ 1.00000000e+00 -9.68332262e-18]
+ [-9.68332262e-18  1.00000000e+00]]
+
+correlation coefficient of v11 - v22 : 
+[[1.00000000e+00 1.18976592e-17]
+ [1.18976592e-17 1.00000000e+00]]
+
+correlation coefficient of v11 - v23 : 
+[[1.00000000e+00 1.02093339e-16]
+ [1.02093339e-16 1.00000000e+00]]
+
+correlation coefficient of v11 - v24 : 
+[[1.00000000e+00 1.63650885e-15]
+ [1.63650885e-15 1.00000000e+00]]
+
+correlation coefficient of v11 - v25 : 
+[[ 1.00000000e+00 -5.96412218e-16]
+ [-5.96412218e-16  1.00000000e+00]]
+
+correlation coefficient of v11 - v26 : 
+[[ 1.00000000e+00 -9.16034055e-17]
+ [-9.16034055e-17  1.00000000e+00]]
+
+correlation coefficient of v11 - v27 : 
+[[ 1.00000000e+00 -1.83494491e-16]
+ [-1.83494491e-16  1.00000000e+00]]
+
+correlation coefficient of v11 - v28 : 
+[[ 1.00000000e+00 -3.47989035e-16]
+ [-3.47989035e-16  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v12 - v1 : 
+[[1.00000000e+00 1.90853824e-16]
+ [1.90853824e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v2 : 
+[[ 1.00000000e+00 -3.29773283e-16]
+ [-3.29773283e-16  1.00000000e+00]]
+
+correlation coefficient of v12 - v3 : 
+[[1.00000000e+00 2.86329058e-16]
+ [2.86329058e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v4 : 
+[[ 1.00000000e+00 -2.20646057e-16]
+ [-2.20646057e-16  1.00000000e+00]]
+
+correlation coefficient of v12 - v5 : 
+[[1.00000000e+00 3.87372789e-16]
+ [3.87372789e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v6 : 
+[[1.00000000e+00 2.69681138e-16]
+ [2.69681138e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v7 : 
+[[1.00000000e+00 6.39709924e-16]
+ [6.39709924e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v8 : 
+[[1.00000000e+00 2.91837294e-17]
+ [2.91837294e-17 1.00000000e+00]]
+
+correlation coefficient of v12 - v9 : 
+[[ 1.00000000e+00 -1.38957664e-15]
+ [-1.38957664e-15  1.00000000e+00]]
+
+correlation coefficient of v12 - v10 : 
+[[1.00000000e+00 8.11534106e-16]
+ [8.11534106e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v11 : 
+[[ 1.00000000e+00 -5.35014353e-16]
+ [-5.35014353e-16  1.00000000e+00]]
+
+correlation coefficient of v12 - v13 : 
+[[ 1.00000000e+00 -2.28242097e-14]
+ [-2.28242097e-14  1.00000000e+00]]
+
+correlation coefficient of v12 - v14 : 
+[[1.00000000e+00 3.83094772e-16]
+ [3.83094772e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v15 : 
+[[ 1.00000000e+00 -3.05216673e-16]
+ [-3.05216673e-16  1.00000000e+00]]
+
+correlation coefficient of v12 - v16 : 
+[[1.00000000e+00 5.21072405e-16]
+ [5.21072405e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v17 : 
+[[ 1.00000000e+00 -4.16935055e-16]
+ [-4.16935055e-16  1.00000000e+00]]
+
+correlation coefficient of v12 - v18 : 
+[[ 1.00000000e+00 -6.13868551e-16]
+ [-6.13868551e-16  1.00000000e+00]]
+
+correlation coefficient of v12 - v19 : 
+[[1.00000000e+00 1.72603358e-16]
+ [1.72603358e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v20 : 
+[[1.00000000e+00 2.45966003e-16]
+ [2.45966003e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v21 : 
+[[1.00000000e+00 5.78831368e-16]
+ [5.78831368e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v22 : 
+[[ 1.00000000e+00 -3.67215986e-17]
+ [-3.67215986e-17  1.00000000e+00]]
+
+correlation coefficient of v12 - v23 : 
+[[1.00000000e+00 2.89752031e-16]
+ [2.89752031e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v24 : 
+[[1.00000000e+00 4.43709379e-16]
+ [4.43709379e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v25 : 
+[[1.00000000e+00 1.72373406e-17]
+ [1.72373406e-17 1.00000000e+00]]
+
+correlation coefficient of v12 - v26 : 
+[[1.00000000e+00 1.90002008e-16]
+ [1.90002008e-16 1.00000000e+00]]
+
+correlation coefficient of v12 - v27 : 
+[[ 1.00000000e+00 -3.14413125e-16]
+ [-3.14413125e-16  1.00000000e+00]]
+
+correlation coefficient of v12 - v28 : 
+[[1.00000000e+00 7.00835057e-16]
+ [7.00835057e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v13 - v1 : 
+[[ 1.00000000e+00 -5.43645535e-17]
+ [-5.43645535e-17  1.00000000e+00]]
+
+correlation coefficient of v13 - v2 : 
+[[ 1.0000000e+00 -1.0160124e-17]
+ [-1.0160124e-17  1.0000000e+00]]
+
+correlation coefficient of v13 - v3 : 
+[[ 1.00000000e+00 -3.59096256e-17]
+ [-3.59096256e-17  1.00000000e+00]]
+
+correlation coefficient of v13 - v4 : 
+[[ 1.0000000e+00 -8.4526307e-18]
+ [-8.4526307e-18  1.0000000e+00]]
+
+correlation coefficient of v13 - v5 : 
+[[ 1.00000000e+00 -2.83126639e-16]
+ [-2.83126639e-16  1.00000000e+00]]
+
+correlation coefficient of v13 - v6 : 
+[[ 1.00000000e+00 -1.82713089e-16]
+ [-1.82713089e-16  1.00000000e+00]]
+
+correlation coefficient of v13 - v7 : 
+[[ 1.00000000e+00 -9.17871676e-17]
+ [-9.17871676e-17  1.00000000e+00]]
+
+correlation coefficient of v13 - v8 : 
+[[ 1.00000000e+00 -2.92065366e-16]
+ [-2.92065366e-16  1.00000000e+00]]
+
+correlation coefficient of v13 - v9 : 
+[[1.00000000e+00 8.77610655e-16]
+ [8.77610655e-16 1.00000000e+00]]
+
+correlation coefficient of v13 - v10 : 
+[[ 1.00000000e+00 -3.97824398e-16]
+ [-3.97824398e-16  1.00000000e+00]]
+
+correlation coefficient of v13 - v11 : 
+[[1.00000000e+00 4.18703219e-16]
+ [4.18703219e-16 1.00000000e+00]]
+
+correlation coefficient of v13 - v12 : 
+[[ 1.00000000e+00 -2.28242097e-14]
+ [-2.28242097e-14  1.00000000e+00]]
+
+correlation coefficient of v13 - v14 : 
+[[1.00000000e+00 1.63426336e-15]
+ [1.63426336e-15 1.00000000e+00]]
+
+correlation coefficient of v13 - v15 : 
+[[ 1.00000000e+00 -1.17427807e-16]
+ [-1.17427807e-16  1.00000000e+00]]
+
+correlation coefficient of v13 - v16 : 
+[[1.00000000e+00 4.89425209e-16]
+ [4.89425209e-16 1.00000000e+00]]
+
+correlation coefficient of v13 - v17 : 
+[[1.00000000e+00 6.50123352e-18]
+ [6.50123352e-18 1.00000000e+00]]
+
+correlation coefficient of v13 - v18 : 
+[[1.00000000e+00 1.87135061e-16]
+ [1.87135061e-16 1.00000000e+00]]
+
+correlation coefficient of v13 - v19 : 
+[[ 1.0000000e+00 -1.3234263e-16]
+ [-1.3234263e-16  1.0000000e+00]]
+
+correlation coefficient of v13 - v20 : 
+[[1.00000000e+00 6.02425003e-17]
+ [6.02425003e-17 1.00000000e+00]]
+
+correlation coefficient of v13 - v21 : 
+[[1.00000000e+00 1.45581704e-16]
+ [1.45581704e-16 1.00000000e+00]]
+
+correlation coefficient of v13 - v22 : 
+[[ 1.00000000e+00 -3.99428406e-17]
+ [-3.99428406e-17  1.00000000e+00]]
+
+correlation coefficient of v13 - v23 : 
+[[ 1.00000e+00 -6.83486e-16]
+ [-6.83486e-16  1.00000e+00]]
+
+correlation coefficient of v13 - v24 : 
+[[ 1.00000000e+00 -6.72522781e-16]
+ [-6.72522781e-16  1.00000000e+00]]
+
+correlation coefficient of v13 - v25 : 
+[[ 1.00000000e+00 -9.94862605e-17]
+ [-9.94862605e-17  1.00000000e+00]]
+
+correlation coefficient of v13 - v26 : 
+[[ 1.00000000e+00 -1.48516948e-16]
+ [-1.48516948e-16  1.00000000e+00]]
+
+correlation coefficient of v13 - v27 : 
+[[ 1.00000000e+00 -4.87772047e-16]
+ [-4.87772047e-16  1.00000000e+00]]
+
+correlation coefficient of v13 - v28 : 
+[[1.00000000e+00 1.08674635e-15]
+ [1.08674635e-15 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v14 - v1 : 
+[[1.00000000e+00 3.30536321e-16]
+ [3.30536321e-16 1.00000000e+00]]
+
+correlation coefficient of v14 - v2 : 
+[[ 1.00000000e+00 -3.86595896e-16]
+ [-3.86595896e-16  1.00000000e+00]]
+
+correlation coefficient of v14 - v3 : 
+[[1.00000000e+00 7.14990917e-16]
+ [7.14990917e-16 1.00000000e+00]]
+
+correlation coefficient of v14 - v4 : 
+[[ 1.00000000e+00 -1.09296837e-16]
+ [-1.09296837e-16  1.00000000e+00]]
+
+correlation coefficient of v14 - v5 : 
+[[1.00000000e+00 2.60872361e-16]
+ [2.60872361e-16 1.00000000e+00]]
+
+correlation coefficient of v14 - v6 : 
+[[1.00000000e+00 3.50066889e-16]
+ [3.50066889e-16 1.00000000e+00]]
+
+correlation coefficient of v14 - v7 : 
+[[1.00000000e+00 2.93794738e-17]
+ [2.93794738e-17 1.00000000e+00]]
+
+correlation coefficient of v14 - v8 : 
+[[ 1.00000000e+00 -2.21416211e-16]
+ [-2.21416211e-16  1.00000000e+00]]
+
+correlation coefficient of v14 - v9 : 
+[[1.00000000e+00 9.17032946e-16]
+ [9.17032946e-16 1.00000000e+00]]
+
+correlation coefficient of v14 - v10 : 
+[[1.00000000e+00 6.46745423e-16]
+ [6.46745423e-16 1.00000000e+00]]
+
+correlation coefficient of v14 - v11 : 
+[[ 1.00000000e+00 -7.03483111e-17]
+ [-7.03483111e-17  1.00000000e+00]]
+
+correlation coefficient of v14 - v12 : 
+[[1.00000000e+00 3.83094772e-16]
+ [3.83094772e-16 1.00000000e+00]]
+
+correlation coefficient of v14 - v13 : 
+[[1.00000000e+00 1.63426336e-15]
+ [1.63426336e-15 1.00000000e+00]]
+
+correlation coefficient of v14 - v15 : 
+[[ 1.00000000e+00 -3.40729074e-16]
+ [-3.40729074e-16  1.00000000e+00]]
+
+correlation coefficient of v14 - v16 : 
+[[ 1.00000000e+00 -8.15346575e-16]
+ [-8.15346575e-16  1.00000000e+00]]
+
+correlation coefficient of v14 - v17 : 
+[[1.00000000e+00 1.28476362e-15]
+ [1.28476362e-15 1.00000000e+00]]
+
+correlation coefficient of v14 - v18 : 
+[[ 1.00000000e+00 -8.53698037e-17]
+ [-8.53698037e-17  1.00000000e+00]]
+
+correlation coefficient of v14 - v19 : 
+[[1.00000000e+00 2.40243964e-16]
+ [2.40243964e-16 1.00000000e+00]]
+
+correlation coefficient of v14 - v20 : 
+[[ 1.00000000e+00 -1.04231852e-17]
+ [-1.04231852e-17  1.00000000e+00]]
+
+correlation coefficient of v14 - v21 : 
+[[ 1.00000000e+00 -2.25283143e-16]
+ [-2.25283143e-16  1.00000000e+00]]
+
+correlation coefficient of v14 - v22 : 
+[[1.0000000e+00 6.7539144e-16]
+ [6.7539144e-16 1.0000000e+00]]
+
+correlation coefficient of v14 - v23 : 
+[[1.00000000e+00 2.32992394e-16]
+ [2.32992394e-16 1.00000000e+00]]
+
+correlation coefficient of v14 - v24 : 
+[[1.00000000e+00 2.97796267e-17]
+ [2.97796267e-17 1.00000000e+00]]
+
+correlation coefficient of v14 - v25 : 
+[[ 1.00000000e+00 -6.27833047e-17]
+ [-6.27833047e-17  1.00000000e+00]]
+
+correlation coefficient of v14 - v26 : 
+[[ 1.00000000e+00 -4.15115234e-17]
+ [-4.15115234e-17  1.00000000e+00]]
+
+correlation coefficient of v14 - v27 : 
+[[1.00000000e+00 1.72884803e-17]
+ [1.72884803e-17 1.00000000e+00]]
+
+correlation coefficient of v14 - v28 : 
+[[1.00000000e+00 2.42848042e-15]
+ [2.42848042e-15 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v15 - v1 : 
+[[ 1.00000000e+00 -1.16557356e-16]
+ [-1.16557356e-16  1.00000000e+00]]
+
+correlation coefficient of v15 - v2 : 
+[[1.00000000e+00 5.65412941e-17]
+ [5.65412941e-17 1.00000000e+00]]
+
+correlation coefficient of v15 - v3 : 
+[[ 1.00000000e+00 -5.37735393e-17]
+ [-5.37735393e-17  1.00000000e+00]]
+
+correlation coefficient of v15 - v4 : 
+[[1.00000000e+00 2.19979677e-16]
+ [2.19979677e-16 1.00000000e+00]]
+
+correlation coefficient of v15 - v5 : 
+[[1.00000000e+00 1.20213227e-16]
+ [1.20213227e-16 1.00000000e+00]]
+
+correlation coefficient of v15 - v6 : 
+[[ 1.00000000e+00 -1.35666558e-16]
+ [-1.35666558e-16  1.00000000e+00]]
+
+correlation coefficient of v15 - v7 : 
+[[ 1.000000e+00 -3.126989e-17]
+ [-3.126989e-17  1.000000e+00]]
+
+correlation coefficient of v15 - v8 : 
+[[1.00000000e+00 8.60356989e-17]
+ [8.60356989e-17 1.00000000e+00]]
+
+correlation coefficient of v15 - v9 : 
+[[ 1.00000000e+00 -7.25275995e-16]
+ [-7.25275995e-16  1.00000000e+00]]
+
+correlation coefficient of v15 - v10 : 
+[[1.00000000e+00 4.08678547e-16]
+ [4.08678547e-16 1.00000000e+00]]
+
+correlation coefficient of v15 - v11 : 
+[[1.00000000e+00 1.99018675e-16]
+ [1.99018675e-16 1.00000000e+00]]
+
+correlation coefficient of v15 - v12 : 
+[[ 1.00000000e+00 -3.05216673e-16]
+ [-3.05216673e-16  1.00000000e+00]]
+
+correlation coefficient of v15 - v13 : 
+[[ 1.00000000e+00 -1.17427807e-16]
+ [-1.17427807e-16  1.00000000e+00]]
+
+correlation coefficient of v15 - v14 : 
+[[ 1.00000000e+00 -3.40729074e-16]
+ [-3.40729074e-16  1.00000000e+00]]
+
+correlation coefficient of v15 - v16 : 
+[[1.0000000e+00 1.0524744e-15]
+ [1.0524744e-15 1.0000000e+00]]
+
+correlation coefficient of v15 - v17 : 
+[[ 1.00000000e+00 -5.65540247e-16]
+ [-5.65540247e-16  1.00000000e+00]]
+
+correlation coefficient of v15 - v18 : 
+[[1.00000000e+00 6.80185842e-16]
+ [6.80185842e-16 1.00000000e+00]]
+
+correlation coefficient of v15 - v19 : 
+[[ 1.00000000e+00 -1.42989031e-15]
+ [-1.42989031e-15  1.00000000e+00]]
+
+correlation coefficient of v15 - v20 : 
+[[1.0000000e+00 1.7780759e-16]
+ [1.7780759e-16 1.0000000e+00]]
+
+correlation coefficient of v15 - v21 : 
+[[1.00000000e+00 5.62459929e-17]
+ [5.62459929e-17 1.00000000e+00]]
+
+correlation coefficient of v15 - v22 : 
+[[ 1.00000000e+00 -2.97850842e-16]
+ [-2.97850842e-16  1.00000000e+00]]
+
+correlation coefficient of v15 - v23 : 
+[[1.00000000e+00 9.32350344e-17]
+ [9.32350344e-17 1.00000000e+00]]
+
+correlation coefficient of v15 - v24 : 
+[[ 1.00000000e+00 -4.44312499e-16]
+ [-4.44312499e-16  1.00000000e+00]]
+
+correlation coefficient of v15 - v25 : 
+[[1.00000000e+00 2.36880175e-16]
+ [2.36880175e-16 1.00000000e+00]]
+
+correlation coefficient of v15 - v26 : 
+[[1.00000000e+00 1.09963793e-16]
+ [1.09963793e-16 1.00000000e+00]]
+
+correlation coefficient of v15 - v27 : 
+[[ 1.00000000e+00 -1.25735448e-15]
+ [-1.25735448e-15  1.00000000e+00]]
+
+correlation coefficient of v15 - v28 : 
+[[ 1.00000000e+00 -1.11510295e-15]
+ [-1.11510295e-15  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v16 - v1 : 
+[[1.00000000e+00 2.78022612e-16]
+ [2.78022612e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v2 : 
+[[1.00000000e+00 5.10875436e-17]
+ [5.10875436e-17 1.00000000e+00]]
+
+correlation coefficient of v16 - v3 : 
+[[1.00000000e+00 5.88263673e-16]
+ [5.88263673e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v4 : 
+[[ 1.00000000e+00 -3.39991501e-17]
+ [-3.39991501e-17  1.00000000e+00]]
+
+correlation coefficient of v16 - v5 : 
+[[1.0000000e+00 5.9164924e-16]
+ [5.9164924e-16 1.0000000e+00]]
+
+correlation coefficient of v16 - v6 : 
+[[ 1.00000000e+00 -7.72123846e-17]
+ [-7.72123846e-17  1.00000000e+00]]
+
+correlation coefficient of v16 - v7 : 
+[[1.00000000e+00 4.89854835e-16]
+ [4.89854835e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v8 : 
+[[1.00000000e+00 1.18078054e-16]
+ [1.18078054e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v9 : 
+[[ 1.00000000e+00 -5.12145848e-16]
+ [-5.12145848e-16  1.00000000e+00]]
+
+correlation coefficient of v16 - v10 : 
+[[1.00000000e+00 2.08349744e-16]
+ [2.08349744e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v11 : 
+[[1.00000000e+00 7.96717152e-17]
+ [7.96717152e-17 1.00000000e+00]]
+
+correlation coefficient of v16 - v12 : 
+[[1.00000000e+00 5.21072405e-16]
+ [5.21072405e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v13 : 
+[[1.00000000e+00 4.89425209e-16]
+ [4.89425209e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v14 : 
+[[ 1.00000000e+00 -8.15346575e-16]
+ [-8.15346575e-16  1.00000000e+00]]
+
+correlation coefficient of v16 - v15 : 
+[[1.0000000e+00 1.0524744e-15]
+ [1.0524744e-15 1.0000000e+00]]
+
+correlation coefficient of v16 - v17 : 
+[[1.00000000e+00 1.63226137e-15]
+ [1.63226137e-15 1.00000000e+00]]
+
+correlation coefficient of v16 - v18 : 
+[[ 1.00000000e+00 -2.69908549e-15]
+ [-2.69908549e-15  1.00000000e+00]]
+
+correlation coefficient of v16 - v19 : 
+[[1.00000000e+00 1.13779235e-15]
+ [1.13779235e-15 1.00000000e+00]]
+
+correlation coefficient of v16 - v20 : 
+[[1.00000000e+00 3.55654714e-16]
+ [3.55654714e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v21 : 
+[[ 1.00000000e+00 -3.95294358e-16]
+ [-3.95294358e-16  1.00000000e+00]]
+
+correlation coefficient of v16 - v22 : 
+[[1.00000000e+00 2.44540433e-16]
+ [2.44540433e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v23 : 
+[[1.00000000e+00 6.79212383e-16]
+ [6.79212383e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v24 : 
+[[ 1.00000000e+00 -3.46294674e-16]
+ [-3.46294674e-16  1.00000000e+00]]
+
+correlation coefficient of v16 - v25 : 
+[[ 1.0000000e+00 -1.8837576e-16]
+ [-1.8837576e-16  1.0000000e+00]]
+
+correlation coefficient of v16 - v26 : 
+[[ 1.00000000e+00 -4.57288475e-16]
+ [-4.57288475e-16  1.00000000e+00]]
+
+correlation coefficient of v16 - v27 : 
+[[1.00000000e+00 8.11925417e-16]
+ [8.11925417e-16 1.00000000e+00]]
+
+correlation coefficient of v16 - v28 : 
+[[1.00000000e+00 7.01000555e-16]
+ [7.01000555e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v17 - v1 : 
+[[ 1.00000000e+00 -1.94956335e-17]
+ [-1.94956335e-17  1.00000000e+00]]
+
+correlation coefficient of v17 - v2 : 
+[[ 1.00000000e+00 -6.42528685e-16]
+ [-6.42528685e-16  1.00000000e+00]]
+
+correlation coefficient of v17 - v3 : 
+[[1.00000000e+00 1.10801799e-16]
+ [1.10801799e-16 1.00000000e+00]]
+
+correlation coefficient of v17 - v4 : 
+[[ 1.00000000e+00 -3.56066612e-16]
+ [-3.56066612e-16  1.00000000e+00]]
+
+correlation coefficient of v17 - v5 : 
+[[1.00000000e+00 4.86369674e-16]
+ [4.86369674e-16 1.00000000e+00]]
+
+correlation coefficient of v17 - v6 : 
+[[1.00000000e+00 1.11599878e-16]
+ [1.11599878e-16 1.00000000e+00]]
+
+correlation coefficient of v17 - v7 : 
+[[1.00000000e+00 4.86899565e-16]
+ [4.86899565e-16 1.00000000e+00]]
+
+correlation coefficient of v17 - v8 : 
+[[ 1.00000000e+00 -4.05996962e-16]
+ [-4.05996962e-16  1.00000000e+00]]
+
+correlation coefficient of v17 - v9 : 
+[[1.00000000e+00 8.46813221e-16]
+ [8.46813221e-16 1.00000000e+00]]
+
+correlation coefficient of v17 - v10 : 
+[[1.00000000e+00 7.15792785e-16]
+ [7.15792785e-16 1.00000000e+00]]
+
+correlation coefficient of v17 - v11 : 
+[[1.0000000e+00 6.1884824e-16]
+ [6.1884824e-16 1.0000000e+00]]
+
+correlation coefficient of v17 - v12 : 
+[[ 1.00000000e+00 -4.16935055e-16]
+ [-4.16935055e-16  1.00000000e+00]]
+
+correlation coefficient of v17 - v13 : 
+[[1.00000000e+00 6.50123352e-18]
+ [6.50123352e-18 1.00000000e+00]]
+
+correlation coefficient of v17 - v14 : 
+[[1.00000000e+00 1.28476362e-15]
+ [1.28476362e-15 1.00000000e+00]]
+
+correlation coefficient of v17 - v15 : 
+[[ 1.00000000e+00 -5.65540247e-16]
+ [-5.65540247e-16  1.00000000e+00]]
+
+correlation coefficient of v17 - v16 : 
+[[1.00000000e+00 1.63226137e-15]
+ [1.63226137e-15 1.00000000e+00]]
+
+correlation coefficient of v17 - v18 : 
+[[ 1.00000000e+00 -5.27187143e-15]
+ [-5.27187143e-15  1.00000000e+00]]
+
+correlation coefficient of v17 - v19 : 
+[[1.0000000e+00 3.4255693e-16]
+ [3.4255693e-16 1.0000000e+00]]
+
+correlation coefficient of v17 - v20 : 
+[[ 1.00000000e+00 -8.90822206e-16]
+ [-8.90822206e-16  1.00000000e+00]]
+
+correlation coefficient of v17 - v21 : 
+[[ 1.00000000e+00 -9.72169935e-16]
+ [-9.72169935e-16  1.00000000e+00]]
+
+correlation coefficient of v17 - v22 : 
+[[ 1.00000000e+00 -3.51659819e-16]
+ [-3.51659819e-16  1.00000000e+00]]
+
+correlation coefficient of v17 - v23 : 
+[[1.00000000e+00 4.57502234e-16]
+ [4.57502234e-16 1.00000000e+00]]
+
+correlation coefficient of v17 - v24 : 
+[[ 1.00000000e+00 -1.67855328e-16]
+ [-1.67855328e-16  1.00000000e+00]]
+
+correlation coefficient of v17 - v25 : 
+[[1.00000000e+00 9.32516947e-17]
+ [9.32516947e-17 1.00000000e+00]]
+
+correlation coefficient of v17 - v26 : 
+[[1.00000000e+00 2.94369327e-16]
+ [2.94369327e-16 1.00000000e+00]]
+
+correlation coefficient of v17 - v27 : 
+[[1.00000000e+00 7.15752764e-16]
+ [7.15752764e-16 1.00000000e+00]]
+
+correlation coefficient of v17 - v28 : 
+[[ 1.00000000e+00 -7.61803495e-17]
+ [-7.61803495e-17  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v18 - v1 : 
+[[1.00000000e+00 1.48221214e-16]
+ [1.48221214e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v2 : 
+[[1.00000000e+00 2.08446676e-16]
+ [2.08446676e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v3 : 
+[[1.00000000e+00 3.64357364e-16]
+ [3.64357364e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v4 : 
+[[ 1.00000000e+00 -4.81571184e-17]
+ [-4.81571184e-17  1.00000000e+00]]
+
+correlation coefficient of v18 - v5 : 
+[[1.00000000e+00 4.13476098e-16]
+ [4.13476098e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v6 : 
+[[1.00000000e+00 4.41482824e-17]
+ [4.41482824e-17 1.00000000e+00]]
+
+correlation coefficient of v18 - v7 : 
+[[1.000000e+00 1.953706e-16]
+ [1.953706e-16 1.000000e+00]]
+
+correlation coefficient of v18 - v8 : 
+[[ 1.00000000e+00 -3.55753505e-16]
+ [-3.55753505e-16  1.00000000e+00]]
+
+correlation coefficient of v18 - v9 : 
+[[1.0000000e+00 1.3668304e-16]
+ [1.3668304e-16 1.0000000e+00]]
+
+correlation coefficient of v18 - v10 : 
+[[1.00000000e+00 4.22453279e-16]
+ [4.22453279e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v11 : 
+[[1.00000000e+00 1.04039534e-16]
+ [1.04039534e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v12 : 
+[[ 1.00000000e+00 -6.13868551e-16]
+ [-6.13868551e-16  1.00000000e+00]]
+
+correlation coefficient of v18 - v13 : 
+[[1.00000000e+00 1.87135061e-16]
+ [1.87135061e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v14 : 
+[[ 1.00000000e+00 -8.53698037e-17]
+ [-8.53698037e-17  1.00000000e+00]]
+
+correlation coefficient of v18 - v15 : 
+[[1.00000000e+00 6.80185842e-16]
+ [6.80185842e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v16 : 
+[[ 1.00000000e+00 -2.69908549e-15]
+ [-2.69908549e-15  1.00000000e+00]]
+
+correlation coefficient of v18 - v17 : 
+[[ 1.00000000e+00 -5.27187143e-15]
+ [-5.27187143e-15  1.00000000e+00]]
+
+correlation coefficient of v18 - v19 : 
+[[ 1.00000000e+00 -2.66961125e-15]
+ [-2.66961125e-15  1.00000000e+00]]
+
+correlation coefficient of v18 - v20 : 
+[[ 1.00000000e+00 -3.71658772e-16]
+ [-3.71658772e-16  1.00000000e+00]]
+
+correlation coefficient of v18 - v21 : 
+[[ 1.00000000e+00 -1.24630615e-15]
+ [-1.24630615e-15  1.00000000e+00]]
+
+correlation coefficient of v18 - v22 : 
+[[ 1.00000000e+00 -5.23644494e-16]
+ [-5.23644494e-16  1.00000000e+00]]
+
+correlation coefficient of v18 - v23 : 
+[[ 1.00000000e+00 -3.00466172e-16]
+ [-3.00466172e-16  1.00000000e+00]]
+
+correlation coefficient of v18 - v24 : 
+[[ 1.00000000e+00 -1.95409714e-16]
+ [-1.95409714e-16  1.00000000e+00]]
+
+correlation coefficient of v18 - v25 : 
+[[ 1.00000000e+00 -2.46854106e-16]
+ [-2.46854106e-16  1.00000000e+00]]
+
+correlation coefficient of v18 - v26 : 
+[[1.00000000e+00 2.87498913e-16]
+ [2.87498913e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v27 : 
+[[1.00000000e+00 2.25749752e-16]
+ [2.25749752e-16 1.00000000e+00]]
+
+correlation coefficient of v18 - v28 : 
+[[1.00000000e+00 8.08179104e-16]
+ [8.08179104e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v19 - v1 : 
+[[1.00000000e+00 1.62817638e-16]
+ [1.62817638e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v2 : 
+[[1.00000000e+00 4.88347459e-18]
+ [4.88347459e-18 1.00000000e+00]]
+
+correlation coefficient of v19 - v3 : 
+[[1.00000000e+00 3.47626903e-16]
+ [3.47626903e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v4 : 
+[[ 1.00000000e+00 -2.82698565e-16]
+ [-2.82698565e-16  1.00000000e+00]]
+
+correlation coefficient of v19 - v5 : 
+[[ 1.00000000e+00 -1.12391549e-16]
+ [-1.12391549e-16  1.00000000e+00]]
+
+correlation coefficient of v19 - v6 : 
+[[1.00000000e+00 9.31084957e-18]
+ [9.31084957e-18 1.00000000e+00]]
+
+correlation coefficient of v19 - v7 : 
+[[ 1.00000000e+00 -7.81055746e-17]
+ [-7.81055746e-17  1.00000000e+00]]
+
+correlation coefficient of v19 - v8 : 
+[[ 1.00000000e+00 -3.29170827e-16]
+ [-3.29170827e-16  1.00000000e+00]]
+
+correlation coefficient of v19 - v9 : 
+[[1.00000000e+00 1.12376966e-16]
+ [1.12376966e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v10 : 
+[[1.00000000e+00 1.24267569e-17]
+ [1.24267569e-17 1.00000000e+00]]
+
+correlation coefficient of v19 - v11 : 
+[[ 1.00000000e+00 -1.14021974e-15]
+ [-1.14021974e-15  1.00000000e+00]]
+
+correlation coefficient of v19 - v12 : 
+[[1.00000000e+00 1.72603358e-16]
+ [1.72603358e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v13 : 
+[[ 1.0000000e+00 -1.3234263e-16]
+ [-1.3234263e-16  1.0000000e+00]]
+
+correlation coefficient of v19 - v14 : 
+[[1.00000000e+00 2.40243964e-16]
+ [2.40243964e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v15 : 
+[[ 1.00000000e+00 -1.42989031e-15]
+ [-1.42989031e-15  1.00000000e+00]]
+
+correlation coefficient of v19 - v16 : 
+[[1.00000000e+00 1.13779235e-15]
+ [1.13779235e-15 1.00000000e+00]]
+
+correlation coefficient of v19 - v17 : 
+[[1.0000000e+00 3.4255693e-16]
+ [3.4255693e-16 1.0000000e+00]]
+
+correlation coefficient of v19 - v18 : 
+[[ 1.00000000e+00 -2.66961125e-15]
+ [-2.66961125e-15  1.00000000e+00]]
+
+correlation coefficient of v19 - v20 : 
+[[1.00000000e+00 2.86728185e-16]
+ [2.86728185e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v21 : 
+[[1.00000000e+00 5.78214043e-16]
+ [5.78214043e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v22 : 
+[[ 1.00000000e+00 -1.00052641e-15]
+ [-1.00052641e-15  1.00000000e+00]]
+
+correlation coefficient of v19 - v23 : 
+[[1.00000000e+00 6.75836911e-16]
+ [6.75836911e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v24 : 
+[[ 1.00000000e+00 -8.77264588e-17]
+ [-8.77264588e-17  1.00000000e+00]]
+
+correlation coefficient of v19 - v25 : 
+[[1.00000000e+00 8.20059425e-16]
+ [8.20059425e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v26 : 
+[[1.00000000e+00 5.51811387e-16]
+ [5.51811387e-16 1.00000000e+00]]
+
+correlation coefficient of v19 - v27 : 
+[[ 1.00000000e+00 -1.53307026e-16]
+ [-1.53307026e-16  1.00000000e+00]]
+
+correlation coefficient of v19 - v28 : 
+[[ 1.00000000e+00 -1.35946132e-15]
+ [-1.35946132e-15  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v20 - v1 : 
+[[1.0000000e+00 1.6112229e-16]
+ [1.6112229e-16 1.0000000e+00]]
+
+correlation coefficient of v20 - v2 : 
+[[1.00000000e+00 1.08962104e-16]
+ [1.08962104e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v3 : 
+[[ 1.00000000e+00 -1.57084919e-17]
+ [-1.57084919e-17  1.00000000e+00]]
+
+correlation coefficient of v20 - v4 : 
+[[ 1.00000000e+00 -1.92484355e-16]
+ [-1.92484355e-16  1.00000000e+00]]
+
+correlation coefficient of v20 - v5 : 
+[[ 1.00000000e+00 -1.17488836e-16]
+ [-1.17488836e-16  1.00000000e+00]]
+
+correlation coefficient of v20 - v6 : 
+[[1.00000000e+00 1.24330886e-16]
+ [1.24330886e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v7 : 
+[[1.00000000e+00 2.29090201e-16]
+ [2.29090201e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v8 : 
+[[1.00000000e+00 1.18258061e-16]
+ [1.18258061e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v9 : 
+[[ 1.00000000e+00 -3.64299492e-16]
+ [-3.64299492e-16  1.00000000e+00]]
+
+correlation coefficient of v20 - v10 : 
+[[ 1.00000000e+00 -1.28789282e-15]
+ [-1.28789282e-15  1.00000000e+00]]
+
+correlation coefficient of v20 - v11 : 
+[[ 1.00000000e+00 -2.13343704e-16]
+ [-2.13343704e-16  1.00000000e+00]]
+
+correlation coefficient of v20 - v12 : 
+[[1.00000000e+00 2.45966003e-16]
+ [2.45966003e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v13 : 
+[[1.00000000e+00 6.02425003e-17]
+ [6.02425003e-17 1.00000000e+00]]
+
+correlation coefficient of v20 - v14 : 
+[[ 1.00000000e+00 -1.04231852e-17]
+ [-1.04231852e-17  1.00000000e+00]]
+
+correlation coefficient of v20 - v15 : 
+[[1.0000000e+00 1.7780759e-16]
+ [1.7780759e-16 1.0000000e+00]]
+
+correlation coefficient of v20 - v16 : 
+[[1.00000000e+00 3.55654714e-16]
+ [3.55654714e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v17 : 
+[[ 1.00000000e+00 -8.90822206e-16]
+ [-8.90822206e-16  1.00000000e+00]]
+
+correlation coefficient of v20 - v18 : 
+[[ 1.00000000e+00 -3.71658772e-16]
+ [-3.71658772e-16  1.00000000e+00]]
+
+correlation coefficient of v20 - v19 : 
+[[1.00000000e+00 2.86728185e-16]
+ [2.86728185e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v21 : 
+[[ 1.00000000e+00 -1.19930321e-15]
+ [-1.19930321e-15  1.00000000e+00]]
+
+correlation coefficient of v20 - v22 : 
+[[1.00000000e+00 9.44720156e-16]
+ [9.44720156e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v23 : 
+[[1.00000000e+00 1.10972871e-16]
+ [1.10972871e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v24 : 
+[[1.00000000e+00 1.59043232e-16]
+ [1.59043232e-16 1.00000000e+00]]
+
+correlation coefficient of v20 - v25 : 
+[[1.00000000e+00 1.14074039e-17]
+ [1.14074039e-17 1.00000000e+00]]
+
+correlation coefficient of v20 - v26 : 
+[[ 1.00000000e+00 -3.48002548e-16]
+ [-3.48002548e-16  1.00000000e+00]]
+
+correlation coefficient of v20 - v27 : 
+[[ 1.00000000e+00 -9.78684823e-16]
+ [-9.78684823e-16  1.00000000e+00]]
+
+correlation coefficient of v20 - v28 : 
+[[ 1.00000000e+00 -1.46827871e-16]
+ [-1.46827871e-16  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v21 - v1 : 
+[[ 1.0000000e+00 -1.0152797e-16]
+ [-1.0152797e-16  1.0000000e+00]]
+
+correlation coefficient of v21 - v2 : 
+[[1.00000000e+00 9.15358549e-17]
+ [9.15358549e-17 1.00000000e+00]]
+
+correlation coefficient of v21 - v3 : 
+[[ 1.00000000e+00 -1.51605568e-16]
+ [-1.51605568e-16  1.00000000e+00]]
+
+correlation coefficient of v21 - v4 : 
+[[ 1.000000e+00 -4.834458e-17]
+ [-4.834458e-17  1.000000e+00]]
+
+correlation coefficient of v21 - v5 : 
+[[ 1.00000000e+00 -3.16921757e-17]
+ [-3.16921757e-17  1.00000000e+00]]
+
+correlation coefficient of v21 - v6 : 
+[[ 1.00000000e+00 -8.89048696e-17]
+ [-8.89048696e-17  1.00000000e+00]]
+
+correlation coefficient of v21 - v7 : 
+[[1.00000000e+00 6.07972143e-18]
+ [6.07972143e-18 1.00000000e+00]]
+
+correlation coefficient of v21 - v8 : 
+[[1.00000000e+00 6.83370413e-17]
+ [6.83370413e-17 1.00000000e+00]]
+
+correlation coefficient of v21 - v9 : 
+[[1.00000000e+00 2.42244933e-16]
+ [2.42244933e-16 1.00000000e+00]]
+
+correlation coefficient of v21 - v10 : 
+[[1.00000000e+00 1.04858833e-15]
+ [1.04858833e-15 1.00000000e+00]]
+
+correlation coefficient of v21 - v11 : 
+[[ 1.00000000e+00 -9.68332262e-18]
+ [-9.68332262e-18  1.00000000e+00]]
+
+correlation coefficient of v21 - v12 : 
+[[1.00000000e+00 5.78831368e-16]
+ [5.78831368e-16 1.00000000e+00]]
+
+correlation coefficient of v21 - v13 : 
+[[1.00000000e+00 1.45581704e-16]
+ [1.45581704e-16 1.00000000e+00]]
+
+correlation coefficient of v21 - v14 : 
+[[ 1.00000000e+00 -2.25283143e-16]
+ [-2.25283143e-16  1.00000000e+00]]
+
+correlation coefficient of v21 - v15 : 
+[[1.00000000e+00 5.62459929e-17]
+ [5.62459929e-17 1.00000000e+00]]
+
+correlation coefficient of v21 - v16 : 
+[[ 1.00000000e+00 -3.95294358e-16]
+ [-3.95294358e-16  1.00000000e+00]]
+
+correlation coefficient of v21 - v17 : 
+[[ 1.00000000e+00 -9.72169935e-16]
+ [-9.72169935e-16  1.00000000e+00]]
+
+correlation coefficient of v21 - v18 : 
+[[ 1.00000000e+00 -1.24630615e-15]
+ [-1.24630615e-15  1.00000000e+00]]
+
+correlation coefficient of v21 - v19 : 
+[[1.00000000e+00 5.78214043e-16]
+ [5.78214043e-16 1.00000000e+00]]
+
+correlation coefficient of v21 - v20 : 
+[[ 1.00000000e+00 -1.19930321e-15]
+ [-1.19930321e-15  1.00000000e+00]]
+
+correlation coefficient of v21 - v22 : 
+[[1.00000000e+00 3.33706772e-15]
+ [3.33706772e-15 1.00000000e+00]]
+
+correlation coefficient of v21 - v23 : 
+[[1.00000000e+00 6.66960949e-16]
+ [6.66960949e-16 1.00000000e+00]]
+
+correlation coefficient of v21 - v24 : 
+[[1.00000000e+00 1.52606812e-16]
+ [1.52606812e-16 1.00000000e+00]]
+
+correlation coefficient of v21 - v25 : 
+[[ 1.00000000e+00 -1.28856949e-16]
+ [-1.28856949e-16  1.00000000e+00]]
+
+correlation coefficient of v21 - v26 : 
+[[ 1.00000000e+00 -4.98973423e-16]
+ [-4.98973423e-16  1.00000000e+00]]
+
+correlation coefficient of v21 - v27 : 
+[[ 1.00000000e+00 -1.41129571e-15]
+ [-1.41129571e-15  1.00000000e+00]]
+
+correlation coefficient of v21 - v28 : 
+[[1.00000000e+00 1.80894201e-16]
+ [1.80894201e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v22 - v1 : 
+[[1.00000000e+00 7.45678536e-17]
+ [7.45678536e-17 1.00000000e+00]]
+
+correlation coefficient of v22 - v2 : 
+[[1.00000000e+00 1.81336569e-16]
+ [1.81336569e-16 1.00000000e+00]]
+
+correlation coefficient of v22 - v3 : 
+[[ 1.0000000e+00 -2.8498944e-16]
+ [-2.8498944e-16  1.0000000e+00]]
+
+correlation coefficient of v22 - v4 : 
+[[1.00000000e+00 2.34688287e-16]
+ [2.34688287e-16 1.00000000e+00]]
+
+correlation coefficient of v22 - v5 : 
+[[1.0000000e+00 8.6868027e-18]
+ [8.6868027e-18 1.0000000e+00]]
+
+correlation coefficient of v22 - v6 : 
+[[ 1.00000000e+00 -1.29595146e-16]
+ [-1.29595146e-16  1.00000000e+00]]
+
+correlation coefficient of v22 - v7 : 
+[[ 1.00000000e+00 -6.50115828e-16]
+ [-6.50115828e-16  1.00000000e+00]]
+
+correlation coefficient of v22 - v8 : 
+[[1.00000000e+00 1.52806778e-17]
+ [1.52806778e-17 1.00000000e+00]]
+
+correlation coefficient of v22 - v9 : 
+[[ 1.00000000e+00 -1.68572911e-16]
+ [-1.68572911e-16  1.00000000e+00]]
+
+correlation coefficient of v22 - v10 : 
+[[ 1.00000000e+00 -2.05575371e-16]
+ [-2.05575371e-16  1.00000000e+00]]
+
+correlation coefficient of v22 - v11 : 
+[[1.00000000e+00 1.18976592e-17]
+ [1.18976592e-17 1.00000000e+00]]
+
+correlation coefficient of v22 - v12 : 
+[[ 1.00000000e+00 -3.67215986e-17]
+ [-3.67215986e-17  1.00000000e+00]]
+
+correlation coefficient of v22 - v13 : 
+[[ 1.00000000e+00 -3.99428406e-17]
+ [-3.99428406e-17  1.00000000e+00]]
+
+correlation coefficient of v22 - v14 : 
+[[1.0000000e+00 6.7539144e-16]
+ [6.7539144e-16 1.0000000e+00]]
+
+correlation coefficient of v22 - v15 : 
+[[ 1.00000000e+00 -2.97850842e-16]
+ [-2.97850842e-16  1.00000000e+00]]
+
+correlation coefficient of v22 - v16 : 
+[[1.00000000e+00 2.44540433e-16]
+ [2.44540433e-16 1.00000000e+00]]
+
+correlation coefficient of v22 - v17 : 
+[[ 1.00000000e+00 -3.51659819e-16]
+ [-3.51659819e-16  1.00000000e+00]]
+
+correlation coefficient of v22 - v18 : 
+[[ 1.00000000e+00 -5.23644494e-16]
+ [-5.23644494e-16  1.00000000e+00]]
+
+correlation coefficient of v22 - v19 : 
+[[ 1.00000000e+00 -1.00052641e-15]
+ [-1.00052641e-15  1.00000000e+00]]
+
+correlation coefficient of v22 - v20 : 
+[[1.00000000e+00 9.44720156e-16]
+ [9.44720156e-16 1.00000000e+00]]
+
+correlation coefficient of v22 - v21 : 
+[[1.00000000e+00 3.33706772e-15]
+ [3.33706772e-15 1.00000000e+00]]
+
+correlation coefficient of v22 - v23 : 
+[[1.0000000e+00 2.9689891e-16]
+ [2.9689891e-16 1.0000000e+00]]
+
+correlation coefficient of v22 - v24 : 
+[[1.00000000e+00 3.31636341e-17]
+ [3.31636341e-17 1.00000000e+00]]
+
+correlation coefficient of v22 - v25 : 
+[[ 1.00000000e+00 -1.00884251e-15]
+ [-1.00884251e-15  1.00000000e+00]]
+
+correlation coefficient of v22 - v26 : 
+[[ 1.00000000e+00 -2.49944388e-16]
+ [-2.49944388e-16  1.00000000e+00]]
+
+correlation coefficient of v22 - v27 : 
+[[1.00000000e+00 1.73080168e-16]
+ [1.73080168e-16 1.00000000e+00]]
+
+correlation coefficient of v22 - v28 : 
+[[ 1.00000000e+00 -5.29814589e-16]
+ [-5.29814589e-16  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v23 - v1 : 
+[[1.00000e+00 1.76782e-16]
+ [1.76782e-16 1.00000e+00]]
+
+correlation coefficient of v23 - v2 : 
+[[1.00000000e+00 1.52857807e-16]
+ [1.52857807e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v3 : 
+[[ 1.00000000e+00 -8.12734632e-17]
+ [-8.12734632e-17  1.00000000e+00]]
+
+correlation coefficient of v23 - v4 : 
+[[1.000000e+00 2.027738e-16]
+ [2.027738e-16 1.000000e+00]]
+
+correlation coefficient of v23 - v5 : 
+[[1.00000000e+00 1.37345909e-16]
+ [1.37345909e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v6 : 
+[[1.00000000e+00 4.64172622e-17]
+ [4.64172622e-17 1.00000000e+00]]
+
+correlation coefficient of v23 - v7 : 
+[[ 1.00000000e+00 -1.94948045e-16]
+ [-1.94948045e-16  1.00000000e+00]]
+
+correlation coefficient of v23 - v8 : 
+[[1.0000000e+00 2.1777996e-16]
+ [2.1777996e-16 1.0000000e+00]]
+
+correlation coefficient of v23 - v9 : 
+[[ 1.00000000e+00 -6.56752456e-17]
+ [-6.56752456e-17  1.00000000e+00]]
+
+correlation coefficient of v23 - v10 : 
+[[1.00000000e+00 2.35551782e-16]
+ [2.35551782e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v11 : 
+[[1.00000000e+00 1.02093339e-16]
+ [1.02093339e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v12 : 
+[[1.00000000e+00 2.89752031e-16]
+ [2.89752031e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v13 : 
+[[ 1.00000e+00 -6.83486e-16]
+ [-6.83486e-16  1.00000e+00]]
+
+correlation coefficient of v23 - v14 : 
+[[1.00000000e+00 2.32992394e-16]
+ [2.32992394e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v15 : 
+[[1.00000000e+00 9.32350344e-17]
+ [9.32350344e-17 1.00000000e+00]]
+
+correlation coefficient of v23 - v16 : 
+[[1.00000000e+00 6.79212383e-16]
+ [6.79212383e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v17 : 
+[[1.00000000e+00 4.57502234e-16]
+ [4.57502234e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v18 : 
+[[ 1.00000000e+00 -3.00466172e-16]
+ [-3.00466172e-16  1.00000000e+00]]
+
+correlation coefficient of v23 - v19 : 
+[[1.00000000e+00 6.75836911e-16]
+ [6.75836911e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v20 : 
+[[1.00000000e+00 1.10972871e-16]
+ [1.10972871e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v21 : 
+[[1.00000000e+00 6.66960949e-16]
+ [6.66960949e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v22 : 
+[[1.0000000e+00 2.9689891e-16]
+ [2.9689891e-16 1.0000000e+00]]
+
+correlation coefficient of v23 - v24 : 
+[[1.00000000e+00 6.99110231e-17]
+ [6.99110231e-17 1.00000000e+00]]
+
+correlation coefficient of v23 - v25 : 
+[[ 1.0000000e+00 -7.6872397e-16]
+ [-7.6872397e-16  1.0000000e+00]]
+
+correlation coefficient of v23 - v26 : 
+[[1.00000000e+00 1.28224316e-15]
+ [1.28224316e-15 1.00000000e+00]]
+
+correlation coefficient of v23 - v27 : 
+[[1.00000000e+00 4.25332045e-16]
+ [4.25332045e-16 1.00000000e+00]]
+
+correlation coefficient of v23 - v28 : 
+[[1.00000000e+00 1.33779771e-15]
+ [1.33779771e-15 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v24 - v1 : 
+[[ 1.00000000e+00 -7.62469309e-17]
+ [-7.62469309e-17  1.00000000e+00]]
+
+correlation coefficient of v24 - v2 : 
+[[ 1.00000000e+00 -1.15759859e-16]
+ [-1.15759859e-16  1.00000000e+00]]
+
+correlation coefficient of v24 - v3 : 
+[[1.00000000e+00 2.42817757e-17]
+ [2.42817757e-17 1.00000000e+00]]
+
+correlation coefficient of v24 - v4 : 
+[[1.00000000e+00 1.60291575e-16]
+ [1.60291575e-16 1.00000000e+00]]
+
+correlation coefficient of v24 - v5 : 
+[[ 1.0000000e+00 -9.6403796e-16]
+ [-9.6403796e-16  1.0000000e+00]]
+
+correlation coefficient of v24 - v6 : 
+[[ 1.00000000e+00 -1.05555202e-15]
+ [-1.05555202e-15  1.00000000e+00]]
+
+correlation coefficient of v24 - v7 : 
+[[ 1.00000000e+00 -9.11950533e-18]
+ [-9.11950533e-18  1.00000000e+00]]
+
+correlation coefficient of v24 - v8 : 
+[[ 1.00000000e+00 -2.10684335e-16]
+ [-2.10684335e-16  1.00000000e+00]]
+
+correlation coefficient of v24 - v9 : 
+[[ 1.00000000e+00 -2.85908336e-16]
+ [-2.85908336e-16  1.00000000e+00]]
+
+correlation coefficient of v24 - v10 : 
+[[ 1.00000000e+00 -9.24790863e-17]
+ [-9.24790863e-17  1.00000000e+00]]
+
+correlation coefficient of v24 - v11 : 
+[[1.00000000e+00 1.63650885e-15]
+ [1.63650885e-15 1.00000000e+00]]
+
+correlation coefficient of v24 - v12 : 
+[[1.00000000e+00 4.43709379e-16]
+ [4.43709379e-16 1.00000000e+00]]
+
+correlation coefficient of v24 - v13 : 
+[[ 1.00000000e+00 -6.72522781e-16]
+ [-6.72522781e-16  1.00000000e+00]]
+
+correlation coefficient of v24 - v14 : 
+[[1.00000000e+00 2.97796267e-17]
+ [2.97796267e-17 1.00000000e+00]]
+
+correlation coefficient of v24 - v15 : 
+[[ 1.00000000e+00 -4.44312499e-16]
+ [-4.44312499e-16  1.00000000e+00]]
+
+correlation coefficient of v24 - v16 : 
+[[ 1.00000000e+00 -3.46294674e-16]
+ [-3.46294674e-16  1.00000000e+00]]
+
+correlation coefficient of v24 - v17 : 
+[[ 1.00000000e+00 -1.67855328e-16]
+ [-1.67855328e-16  1.00000000e+00]]
+
+correlation coefficient of v24 - v18 : 
+[[ 1.00000000e+00 -1.95409714e-16]
+ [-1.95409714e-16  1.00000000e+00]]
+
+correlation coefficient of v24 - v19 : 
+[[ 1.00000000e+00 -8.77264588e-17]
+ [-8.77264588e-17  1.00000000e+00]]
+
+correlation coefficient of v24 - v20 : 
+[[1.00000000e+00 1.59043232e-16]
+ [1.59043232e-16 1.00000000e+00]]
+
+correlation coefficient of v24 - v21 : 
+[[1.00000000e+00 1.52606812e-16]
+ [1.52606812e-16 1.00000000e+00]]
+
+correlation coefficient of v24 - v22 : 
+[[1.00000000e+00 3.31636341e-17]
+ [3.31636341e-17 1.00000000e+00]]
+
+correlation coefficient of v24 - v23 : 
+[[1.00000000e+00 6.99110231e-17]
+ [6.99110231e-17 1.00000000e+00]]
+
+correlation coefficient of v24 - v25 : 
+[[1.00000000e+00 1.24461037e-15]
+ [1.24461037e-15 1.00000000e+00]]
+
+correlation coefficient of v24 - v26 : 
+[[1.00000000e+00 1.97846777e-16]
+ [1.97846777e-16 1.00000000e+00]]
+
+correlation coefficient of v24 - v27 : 
+[[ 1.00000000e+00 -3.00857267e-16]
+ [-3.00857267e-16  1.00000000e+00]]
+
+correlation coefficient of v24 - v28 : 
+[[ 1.00000000e+00 -2.70177748e-16]
+ [-2.70177748e-16  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v25 - v1 : 
+[[ 1.00000000e+00 -1.95281048e-16]
+ [-1.95281048e-16  1.00000000e+00]]
+
+correlation coefficient of v25 - v2 : 
+[[1.00000000e+00 2.01228988e-16]
+ [2.01228988e-16 1.00000000e+00]]
+
+correlation coefficient of v25 - v3 : 
+[[1.00000000e+00 7.69385489e-17]
+ [7.69385489e-17 1.00000000e+00]]
+
+correlation coefficient of v25 - v4 : 
+[[1.00000000e+00 6.50072554e-16]
+ [6.50072554e-16 1.00000000e+00]]
+
+correlation coefficient of v25 - v5 : 
+[[ 1.0000000e+00 -6.3689074e-17]
+ [-6.3689074e-17  1.0000000e+00]]
+
+correlation coefficient of v25 - v6 : 
+[[1.00000000e+00 5.34146973e-16]
+ [5.34146973e-16 1.00000000e+00]]
+
+correlation coefficient of v25 - v7 : 
+[[ 1.00000000e+00 -2.70134466e-17]
+ [-2.70134466e-17  1.00000000e+00]]
+
+correlation coefficient of v25 - v8 : 
+[[ 1.00000000e+00 -1.55258223e-16]
+ [-1.55258223e-16  1.00000000e+00]]
+
+correlation coefficient of v25 - v9 : 
+[[1.00000000e+00 2.33106447e-16]
+ [2.33106447e-16 1.00000000e+00]]
+
+correlation coefficient of v25 - v10 : 
+[[ 1.00000000e+00 -3.52471386e-16]
+ [-3.52471386e-16  1.00000000e+00]]
+
+correlation coefficient of v25 - v11 : 
+[[ 1.00000000e+00 -5.96412218e-16]
+ [-5.96412218e-16  1.00000000e+00]]
+
+correlation coefficient of v25 - v12 : 
+[[1.00000000e+00 1.72373406e-17]
+ [1.72373406e-17 1.00000000e+00]]
+
+correlation coefficient of v25 - v13 : 
+[[ 1.00000000e+00 -9.94862605e-17]
+ [-9.94862605e-17  1.00000000e+00]]
+
+correlation coefficient of v25 - v14 : 
+[[ 1.00000000e+00 -6.27833047e-17]
+ [-6.27833047e-17  1.00000000e+00]]
+
+correlation coefficient of v25 - v15 : 
+[[1.00000000e+00 2.36880175e-16]
+ [2.36880175e-16 1.00000000e+00]]
+
+correlation coefficient of v25 - v16 : 
+[[ 1.0000000e+00 -1.8837576e-16]
+ [-1.8837576e-16  1.0000000e+00]]
+
+correlation coefficient of v25 - v17 : 
+[[1.00000000e+00 9.32516947e-17]
+ [9.32516947e-17 1.00000000e+00]]
+
+correlation coefficient of v25 - v18 : 
+[[ 1.00000000e+00 -2.46854106e-16]
+ [-2.46854106e-16  1.00000000e+00]]
+
+correlation coefficient of v25 - v19 : 
+[[1.00000000e+00 8.20059425e-16]
+ [8.20059425e-16 1.00000000e+00]]
+
+correlation coefficient of v25 - v20 : 
+[[1.00000000e+00 1.14074039e-17]
+ [1.14074039e-17 1.00000000e+00]]
+
+correlation coefficient of v25 - v21 : 
+[[ 1.00000000e+00 -1.28856949e-16]
+ [-1.28856949e-16  1.00000000e+00]]
+
+correlation coefficient of v25 - v22 : 
+[[ 1.00000000e+00 -1.00884251e-15]
+ [-1.00884251e-15  1.00000000e+00]]
+
+correlation coefficient of v25 - v23 : 
+[[ 1.0000000e+00 -7.6872397e-16]
+ [-7.6872397e-16  1.0000000e+00]]
+
+correlation coefficient of v25 - v24 : 
+[[1.00000000e+00 1.24461037e-15]
+ [1.24461037e-15 1.00000000e+00]]
+
+correlation coefficient of v25 - v26 : 
+[[1.00000000e+00 2.34818617e-15]
+ [2.34818617e-15 1.00000000e+00]]
+
+correlation coefficient of v25 - v27 : 
+[[ 1.00000000e+00 -5.87602895e-16]
+ [-5.87602895e-16  1.00000000e+00]]
+
+correlation coefficient of v25 - v28 : 
+[[1.00000000e+00 3.86026692e-16]
+ [3.86026692e-16 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v26 - v1 : 
+[[ 1.00000000e+00 -1.37679287e-16]
+ [-1.37679287e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v2 : 
+[[1.00000000e+00 2.49496973e-16]
+ [2.49496973e-16 1.00000000e+00]]
+
+correlation coefficient of v26 - v3 : 
+[[ 1.00000000e+00 -1.86012985e-16]
+ [-1.86012985e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v4 : 
+[[ 1.00000000e+00 -4.06921314e-16]
+ [-4.06921314e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v5 : 
+[[1.00000000e+00 3.19016684e-16]
+ [3.19016684e-16 1.00000000e+00]]
+
+correlation coefficient of v26 - v6 : 
+[[ 1.00000000e+00 -2.63178518e-16]
+ [-2.63178518e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v7 : 
+[[ 1.00000000e+00 -8.04759482e-16]
+ [-8.04759482e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v8 : 
+[[ 1.00000000e+00 -1.27784707e-18]
+ [-1.27784707e-18  1.00000000e+00]]
+
+correlation coefficient of v26 - v9 : 
+[[ 1.00000000e+00 -1.44295435e-16]
+ [-1.44295435e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v10 : 
+[[ 1.00000000e+00 -3.79060735e-16]
+ [-3.79060735e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v11 : 
+[[ 1.00000000e+00 -9.16034055e-17]
+ [-9.16034055e-17  1.00000000e+00]]
+
+correlation coefficient of v26 - v12 : 
+[[1.00000000e+00 1.90002008e-16]
+ [1.90002008e-16 1.00000000e+00]]
+
+correlation coefficient of v26 - v13 : 
+[[ 1.00000000e+00 -1.48516948e-16]
+ [-1.48516948e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v14 : 
+[[ 1.00000000e+00 -4.15115234e-17]
+ [-4.15115234e-17  1.00000000e+00]]
+
+correlation coefficient of v26 - v15 : 
+[[1.00000000e+00 1.09963793e-16]
+ [1.09963793e-16 1.00000000e+00]]
+
+correlation coefficient of v26 - v16 : 
+[[ 1.00000000e+00 -4.57288475e-16]
+ [-4.57288475e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v17 : 
+[[1.00000000e+00 2.94369327e-16]
+ [2.94369327e-16 1.00000000e+00]]
+
+correlation coefficient of v26 - v18 : 
+[[1.00000000e+00 2.87498913e-16]
+ [2.87498913e-16 1.00000000e+00]]
+
+correlation coefficient of v26 - v19 : 
+[[1.00000000e+00 5.51811387e-16]
+ [5.51811387e-16 1.00000000e+00]]
+
+correlation coefficient of v26 - v20 : 
+[[ 1.00000000e+00 -3.48002548e-16]
+ [-3.48002548e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v21 : 
+[[ 1.00000000e+00 -4.98973423e-16]
+ [-4.98973423e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v22 : 
+[[ 1.00000000e+00 -2.49944388e-16]
+ [-2.49944388e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v23 : 
+[[1.00000000e+00 1.28224316e-15]
+ [1.28224316e-15 1.00000000e+00]]
+
+correlation coefficient of v26 - v24 : 
+[[1.00000000e+00 1.97846777e-16]
+ [1.97846777e-16 1.00000000e+00]]
+
+correlation coefficient of v26 - v25 : 
+[[1.00000000e+00 2.34818617e-15]
+ [2.34818617e-15 1.00000000e+00]]
+
+correlation coefficient of v26 - v27 : 
+[[ 1.00000000e+00 -2.83567216e-16]
+ [-2.83567216e-16  1.00000000e+00]]
+
+correlation coefficient of v26 - v28 : 
+[[ 1.00000000e+00 -2.91730393e-16]
+ [-2.91730393e-16  1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v27 - v1 : 
+[[1.00000000e+00 1.02653088e-16]
+ [1.02653088e-16 1.00000000e+00]]
+
+correlation coefficient of v27 - v2 : 
+[[ 1.00000000e+00 -5.16280172e-16]
+ [-5.16280172e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v3 : 
+[[1.00000000e+00 5.00507199e-16]
+ [5.00507199e-16 1.00000000e+00]]
+
+correlation coefficient of v27 - v4 : 
+[[ 1.00000000e+00 -1.06146647e-16]
+ [-1.06146647e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v5 : 
+[[1.00000000e+00 4.43353217e-16]
+ [4.43353217e-16 1.00000000e+00]]
+
+correlation coefficient of v27 - v6 : 
+[[ 1.00000000e+00 -1.48205812e-16]
+ [-1.48205812e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v7 : 
+[[ 1.00000000e+00 -1.60295227e-16]
+ [-1.60295227e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v8 : 
+[[1.00000000e+00 2.88979934e-16]
+ [2.88979934e-16 1.00000000e+00]]
+
+correlation coefficient of v27 - v9 : 
+[[ 1.00000000e+00 -1.90146022e-16]
+ [-1.90146022e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v10 : 
+[[ 1.00000000e+00 -3.13943418e-16]
+ [-3.13943418e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v11 : 
+[[ 1.00000000e+00 -1.83494491e-16]
+ [-1.83494491e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v12 : 
+[[ 1.00000000e+00 -3.14413125e-16]
+ [-3.14413125e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v13 : 
+[[ 1.00000000e+00 -4.87772047e-16]
+ [-4.87772047e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v14 : 
+[[1.00000000e+00 1.72884803e-17]
+ [1.72884803e-17 1.00000000e+00]]
+
+correlation coefficient of v27 - v15 : 
+[[ 1.00000000e+00 -1.25735448e-15]
+ [-1.25735448e-15  1.00000000e+00]]
+
+correlation coefficient of v27 - v16 : 
+[[1.00000000e+00 8.11925417e-16]
+ [8.11925417e-16 1.00000000e+00]]
+
+correlation coefficient of v27 - v17 : 
+[[1.00000000e+00 7.15752764e-16]
+ [7.15752764e-16 1.00000000e+00]]
+
+correlation coefficient of v27 - v18 : 
+[[1.00000000e+00 2.25749752e-16]
+ [2.25749752e-16 1.00000000e+00]]
+
+correlation coefficient of v27 - v19 : 
+[[ 1.00000000e+00 -1.53307026e-16]
+ [-1.53307026e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v20 : 
+[[ 1.00000000e+00 -9.78684823e-16]
+ [-9.78684823e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v21 : 
+[[ 1.00000000e+00 -1.41129571e-15]
+ [-1.41129571e-15  1.00000000e+00]]
+
+correlation coefficient of v27 - v22 : 
+[[1.00000000e+00 1.73080168e-16]
+ [1.73080168e-16 1.00000000e+00]]
+
+correlation coefficient of v27 - v23 : 
+[[1.00000000e+00 4.25332045e-16]
+ [4.25332045e-16 1.00000000e+00]]
+
+correlation coefficient of v27 - v24 : 
+[[ 1.00000000e+00 -3.00857267e-16]
+ [-3.00857267e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v25 : 
+[[ 1.00000000e+00 -5.87602895e-16]
+ [-5.87602895e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v26 : 
+[[ 1.00000000e+00 -2.83567216e-16]
+ [-2.83567216e-16  1.00000000e+00]]
+
+correlation coefficient of v27 - v28 : 
+[[1.00000000e+00 3.89371589e-17]
+ [3.89371589e-17 1.00000000e+00]]
+
+
+------------------------- 
+correlation coefficient of v28 - v1 : 
+[[1.00000000e+00 3.56686783e-16]
+ [3.56686783e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v2 : 
+[[ 1.00000000e+00 -3.81866509e-16]
+ [-3.81866509e-16  1.00000000e+00]]
+
+correlation coefficient of v28 - v3 : 
+[[1.00000000e+00 7.20249736e-16]
+ [7.20249736e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v4 : 
+[[ 1.00000000e+00 -8.36762427e-18]
+ [-8.36762427e-18  1.00000000e+00]]
+
+correlation coefficient of v28 - v5 : 
+[[ 1.00000000e+00 -1.88688139e-16]
+ [-1.88688139e-16  1.00000000e+00]]
+
+correlation coefficient of v28 - v6 : 
+[[1.00000000e+00 4.34344149e-16]
+ [4.34344149e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v7 : 
+[[1.00000000e+00 1.11684061e-16]
+ [1.11684061e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v8 : 
+[[ 1.00000000e+00 -5.51081438e-16]
+ [-5.51081438e-16  1.00000000e+00]]
+
+correlation coefficient of v28 - v9 : 
+[[1.0000000e+00 8.1251908e-16]
+ [8.1251908e-16 1.0000000e+00]]
+
+correlation coefficient of v28 - v10 : 
+[[1.00000000e+00 2.45935235e-16]
+ [2.45935235e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v11 : 
+[[ 1.00000000e+00 -3.47989035e-16]
+ [-3.47989035e-16  1.00000000e+00]]
+
+correlation coefficient of v28 - v12 : 
+[[1.00000000e+00 7.00835057e-16]
+ [7.00835057e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v13 : 
+[[1.00000000e+00 1.08674635e-15]
+ [1.08674635e-15 1.00000000e+00]]
+
+correlation coefficient of v28 - v14 : 
+[[1.00000000e+00 2.42848042e-15]
+ [2.42848042e-15 1.00000000e+00]]
+
+correlation coefficient of v28 - v15 : 
+[[ 1.00000000e+00 -1.11510295e-15]
+ [-1.11510295e-15  1.00000000e+00]]
+
+correlation coefficient of v28 - v16 : 
+[[1.00000000e+00 7.01000555e-16]
+ [7.01000555e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v17 : 
+[[ 1.00000000e+00 -7.61803495e-17]
+ [-7.61803495e-17  1.00000000e+00]]
+
+correlation coefficient of v28 - v18 : 
+[[1.00000000e+00 8.08179104e-16]
+ [8.08179104e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v19 : 
+[[ 1.00000000e+00 -1.35946132e-15]
+ [-1.35946132e-15  1.00000000e+00]]
+
+correlation coefficient of v28 - v20 : 
+[[ 1.00000000e+00 -1.46827871e-16]
+ [-1.46827871e-16  1.00000000e+00]]
+
+correlation coefficient of v28 - v21 : 
+[[1.00000000e+00 1.80894201e-16]
+ [1.80894201e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v22 : 
+[[ 1.00000000e+00 -5.29814589e-16]
+ [-5.29814589e-16  1.00000000e+00]]
+
+correlation coefficient of v28 - v23 : 
+[[1.00000000e+00 1.33779771e-15]
+ [1.33779771e-15 1.00000000e+00]]
+
+correlation coefficient of v28 - v24 : 
+[[ 1.00000000e+00 -2.70177748e-16]
+ [-2.70177748e-16  1.00000000e+00]]
+
+correlation coefficient of v28 - v25 : 
+[[1.00000000e+00 3.86026692e-16]
+ [3.86026692e-16 1.00000000e+00]]
+
+correlation coefficient of v28 - v26 : 
+[[ 1.00000000e+00 -2.91730393e-16]
+ [-2.91730393e-16  1.00000000e+00]]
+
+correlation coefficient of v28 - v27 : 
+[[1.00000000e+00 3.89371589e-17]
+ [3.89371589e-17 1.00000000e+00]]
+
+
+------------------------- 
